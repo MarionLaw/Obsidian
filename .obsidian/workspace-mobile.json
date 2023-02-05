@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "3fdc7b8129f65378",
+    "type": "split",
+    "children": [
+      {
+        "id": "82207515a7267c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915c5a2ce6495a1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59eb0208e5a527fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8db2b6ea5b4e58a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTimeReverse"
+          }
+        }
+      },
+      {
+        "id": "55ebf7fdd7273f73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5c4accb2e478f940",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8548706505837207",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5428bd6059db502e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e853e95abe95d658",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5825e9fa252f0ea7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "02d6671bc5c59855",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "e1c198d1597faeb7",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "a14e6049700b6dde",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a14e6049700b6dde",
+  "lastOpenFiles": [
+    "毛概.md",
+    "百度热搜.md",
+    "Python数据类型.md",
+    "Python字符串.md",
+    "Python转义字符.md",
+    "Python字符串的运算.md",
+    "Python三引号的应用以及单双引号的区别.md",
+    "Python进制表示及转化.md",
+    "2-Knowledge/22081501-tanx-sinx的等价无穷小.md",
+    "22081501-两个重要极限的扩展题型.md"
+  ]
+}

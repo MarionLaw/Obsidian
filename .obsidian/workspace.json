@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "3fdc7b8129f65378",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d253df347d0a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4aa989644053f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6de4b6878969bae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb82a3a64ae802f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b8cfb362584803",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "93852d1b63a00a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:穿搭",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47ae163e7822ea76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9848958dfce6a2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc626275c329beb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7f148ae96d218c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b17999735b3581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b1c07a86d4f79c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3636e4d1dcafdc4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eda095ec0ccdf587",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8aadfa5d7efd337",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ead87572bebf5415",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "cc4aa989644053f0",
+  "lastOpenFiles": [
+    "毛概.md",
+    "假发.md",
+    "职业发展路径.canvas",
+    "创业.md",
+    "Efficiency and equity.md",
+    "会计基础.md",
+    "0-Attachment/Drawing 2023-02-02 21.19.29.excalidraw.md",
+    "0-Attachment/Drawing 2023-02-03 18.06.22.excalidraw.md",
+    "备考规划.md",
+    "职业生涯规划.md"
+  ]
+}

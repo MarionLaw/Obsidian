@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"a095ee3a34b92024","x":-23,"y":-695,"width":250,"height":60,"type":"text","text":"分数求极限"},
+		{"id":"7ad0d03cdf8248a2","x":643,"y":-809,"width":253,"height":84,"type":"text","text":"$$\\lim_{x\\rightarrow0}\\frac{\\tan{x}}{x}=1$$"},
+		{"id":"5c6ae14c4394fcc1","x":643,"y":-707,"width":250,"height":84,"type":"text","text":"$$\\lim_{x\\rightarrow0}(1-\\cos{x^n})=\\frac{n}{2}x^2$$"},
+		{"id":"5c93cc6d7eb5cebe","x":356,"y":-451,"width":250,"height":131,"type":"text","text":"两个重要极限"},
+		{"id":"20a17e9be8a8abbb","x":949,"y":-707,"width":250,"height":84,"type":"text","text":"$$\\lim_{x\\rightarrow0}(1-\\cos{x})=\\frac{1}{2}x^2$$"},
+		{"id":"45087da865be4114","x":1254,"y":-707,"width":253,"height":84,"type":"text","text":"$$\\lim_{x\\rightarrow0}\\frac{1-\\cos{x}}{x^2}=\\frac{1}{2}$$"},
+		{"id":"0477ccecd38df967","x":1565,"y":-776,"width":507,"height":90,"type":"text","text":"$$\\lim_{x\\rightarrow0}\\frac{\\tan{x}-\\sin{x}}{x^3}=\\lim_{x\\rightarrow0}\\frac{\\tan{x}\\cdot(1-\\cos{x})}{x^3}=\\lim_{x\\rightarrow0}\\frac{\\tan{x}}{x}\\cdot\\frac{1-\\cos{x}}{x^2}=\\frac{1}{2}$$"},
+		{"id":"4e4aaa74e2bfdf9f","x":356,"y":-746,"width":250,"height":60,"type":"text","text":"常用等价无穷小"},
+		{"id":"9e0779ee3bef38ff","x":200,"y":-1140,"width":250,"height":79,"type":"text","text":"$$\\frac{0}{0}$$"},
+		{"id":"e1233de5dcf66779","x":200,"y":-1020,"width":250,"height":79,"type":"text","text":"$$\\frac{\\infty}{\\infty}$$"}
+	],
+	"edges":[
+		{"id":"86dda1935198f2a3","fromNode":"5c6ae14c4394fcc1","fromSide":"right","toNode":"20a17e9be8a8abbb","toSide":"left"},
+		{"id":"98d35881f8437ae5","fromNode":"20a17e9be8a8abbb","fromSide":"right","toNode":"45087da865be4114","toSide":"left"},
+		{"id":"f9cbe6f9b1b5beb3","fromNode":"45087da865be4114","fromSide":"right","toNode":"0477ccecd38df967","toSide":"left"},
+		{"id":"64dc1de200f8e586","fromNode":"7ad0d03cdf8248a2","fromSide":"right","toNode":"0477ccecd38df967","toSide":"left"},
+		{"id":"f5df85b164eb2550","fromNode":"4e4aaa74e2bfdf9f","fromSide":"right","toNode":"7ad0d03cdf8248a2","toSide":"left"},
+		{"id":"3d91495091e2f484","fromNode":"4e4aaa74e2bfdf9f","fromSide":"right","toNode":"5c6ae14c4394fcc1","toSide":"left"}
+	]
+}

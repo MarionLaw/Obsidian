@@ -1,0 +1,4000 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3,3) + year",
+      "citekeyFormatBackup": "auth.lower + shorttitle(3,3) + year",
+      "citekeySearch": true,
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "platform": "win",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "pandoc",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "texmap": {}
+    },
+    "options": {
+      "exportNotes": true,
+      "exportFileData": false,
+      "keepUpdated": false,
+      "worker": true
+    }
+  },
+  "version": {
+    "zotero": "6.0.18",
+    "bbt": "6.7.43"
+  },
+  "collections": {
+    "AXC56F9I": {
+      "key": "AXC56F9I",
+      "parent": "",
+      "name": "\u5b66\u4e60\u5e93",
+      "collections": [],
+      "items": [
+        160,
+        161,
+        162,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        173,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        659,
+        662,
+        664,
+        665,
+        667,
+        668
+      ]
+    },
+    "MZA2BXKQ": {
+      "key": "MZA2BXKQ",
+      "parent": "",
+      "name": "\u5df2\u5f52\u6863",
+      "collections": [],
+      "items": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        198
+      ]
+    },
+    "YQSBLGFU": {
+      "key": "YQSBLGFU",
+      "parent": "",
+      "name": "\u5f15\u7528\u5e93",
+      "collections": [],
+      "items": [
+        163,
+        186,
+        876,
+        877,
+        878,
+        879,
+        880,
+        881,
+        890
+      ]
+    }
+  },
+  "items": [
+    {
+      "key": "6696IA9M",
+      "version": 1047,
+      "itemType": "webpage",
+      "title": "(11\u6761\u6d88\u606f) \u6700\u65b0zotero\u4e0eobsidian\u7b14\u8bb0\u8054\u52a8\u6559\u7a0b\uff08\u53ef\u4ee3\u66ffcitations\u548cmdnotes\uff09_qq_43309940\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_zotero\u548cobsidian",
+      "url": "https://blog.csdn.net/qq_43309940/article/details/125150487",
+      "accessDate": "2022-10-13T09:13:09Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-13T09:13:09Z",
+      "dateModified": "2022-10-13T09:13:09Z",
+      "uri": "http://zotero.org/users/8201183/items/6696IA9M",
+      "itemID": 764,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(11\u6761\u6d88\u606f) \u6700\u65b0zotero\u4e0eobsidian\u7b14\u8bb0\u8054\u52a8\u6559\u7a0b\uff08\u53ef\u4ee3\u66ffcitations\u548cmdnotes\uff09_qq_43309940\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_zotero\u548cobsidian",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T09:13:21Z",
+          "dateModified": "2022-10-13T09:13:21Z",
+          "uri": "http://zotero.org/users/8201183/items/II4DBSYP",
+          "path": "E:\\Zotero\\storage\\II4DBSYP\\125150487.html",
+          "select": "zotero://select/library/items/II4DBSYP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "()-11tiaoxiaoxi",
+      "itemKey": "6696IA9M",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6696IA9M"
+    },
+    {
+      "key": "IPRYCYL4",
+      "version": 892,
+      "itemType": "webpage",
+      "title": "\u5bf9\u4e8e\u8fd1\u671f\u7f8e\u503a\u6536\u76ca\u7387\u3001\u4e2d\u7f8e\u5229\u5dee\u3001\u4eba \u6c11\u5e01\u6c47\u7387\u7684\u601d\u8003220930.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209301578814680_1.pdf?1664565871000.pdf",
+      "accessDate": "2022-10-06T11:26:13Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:01Z",
+      "dateModified": "2022-10-06T12:48:01Z",
+      "uri": "http://zotero.org/users/8201183/items/IPRYCYL4",
+      "itemID": 726,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u5bf9\u4e8e\u8fd1\u671f\u7f8e\u503a\u6536\u76ca\u7387\u3001\u4e2d\u7f8e\u5229\u5dee\u3001\u4eba \u6c11\u5e01\u6c47\u7387\u7684\u601d\u8003220930.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u5bf9\u4e8e\u8fd1\u671f\u7f8e\u503a\u6536\u76ca\u7387\u3001\u4e2d\u7f8e\u5229\u5dee\u3001\u4eba \u6c11\u5e01\u6c47\u7387\u7684\u601d\u8003220930.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:20:55Z",
+          "dateModified": "2022-12-03T17:13:24Z",
+          "uri": "http://zotero.org/users/8201183/items/XVZ6QPIQ",
+          "select": "zotero://select/library/items/XVZ6QPIQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "()-duiyujinqimeizhaishouyilu",
+      "itemKey": "IPRYCYL4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IPRYCYL4"
+    },
+    {
+      "key": "D7JVBKC5",
+      "version": 768,
+      "itemType": "webpage",
+      "title": "007\uff1a\u9700\u6c42\u5f39\u6027\u4e4b\u5f27\u5f39\u6027\u548c\u70b9\u5f39\u6027",
+      "url": "https://baijiahao.baidu.com/s?id=1680997868482705741&wfr=spider&for=pc",
+      "accessDate": "2022-09-25T10:38:40Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T10:38:40Z",
+      "dateModified": "2022-09-25T10:38:40Z",
+      "uri": "http://zotero.org/users/8201183/items/D7JVBKC5",
+      "itemID": 164,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "007\uff1a\u9700\u6c42\u5f39\u6027\u4e4b\u5f27\u5f39\u6027\u548c\u70b9\u5f39\u6027",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-25T10:38:47Z",
+          "dateModified": "2022-09-25T10:38:47Z",
+          "uri": "http://zotero.org/users/8201183/items/9LRILKQX",
+          "path": "E:\\Zotero\\storage\\9LRILKQX\\s.html",
+          "select": "zotero://select/library/items/9LRILKQX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "007XuQiuDanXingZhiHuDanXingHeDianDanXing",
+      "itemKey": "D7JVBKC5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D7JVBKC5"
+    },
+    {
+      "key": "YGW4M8FF",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) Python\u91d1\u878d\u5b9e\u6218\u4e4b\u8ba1\u7b97VaR_leige_2020\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_python\u8ba1\u7b97var",
+      "url": "https://blog.csdn.net/leige_2020/article/details/104405116",
+      "accessDate": "2022-09-24T10:51:06Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-24T10:51:06Z",
+      "dateModified": "2022-09-24T10:51:06Z",
+      "uri": "http://zotero.org/users/8201183/items/YGW4M8FF",
+      "itemID": 178,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) Python\u91d1\u878d\u5b9e\u6218\u4e4b\u8ba1\u7b97VaR_leige_2020\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_python\u8ba1\u7b97var",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T10:51:18Z",
+          "dateModified": "2022-09-24T10:51:18Z",
+          "uri": "http://zotero.org/users/8201183/items/477PYW5J",
+          "path": "E:\\Zotero\\storage\\477PYW5J\\104405116.html",
+          "select": "zotero://select/library/items/477PYW5J"
+        },
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) Python\u91d1\u878d\u5b9e\u6218\u4e4b\u8ba1\u7b97VaR_leige_2020\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_python\u8ba1\u7b97var.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\(10\u6761\u6d88\u606f) Python\u91d1\u878d\u5b9e\u6218\u4e4b\u8ba1\u7b97VaR_leige_2020\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_python\u8ba1\u7b97var.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:03Z",
+          "dateModified": "2022-12-03T17:13:26Z",
+          "uri": "http://zotero.org/users/8201183/items/48K28KA3",
+          "select": "zotero://select/library/items/48K28KA3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "10tiaoxiaoxi",
+      "itemKey": "YGW4M8FF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YGW4M8FF"
+    },
+    {
+      "key": "MCUR8CXF",
+      "version": 1042,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) \u91cf\u5316\u6295\u8d44\u4e4b\u5de5\u5177\u7bc7\u4e00\uff1aBacktrader\u4ece\u5165\u95e8\u5230\u7cbe\u901a\uff085\uff09-Strategy\u7c7b\u6e90\u4ee3\u7801\u89e3\u8bfb_\u4ed3\u9f20\u5927\u738b\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_backtrader \u591a\u7a7a",
+      "url": "https://blog.csdn.net/h00cker/article/details/121961354",
+      "accessDate": "2022-10-08T16:00:47Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-08T16:00:47Z",
+      "dateModified": "2022-10-08T16:00:47Z",
+      "uri": "http://zotero.org/users/8201183/items/MCUR8CXF",
+      "itemID": 762,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "10TiaoXiaoXiLiangHuaTouZiZhiGongJuPianYiBacktraderCongRuMenDaoJingTong",
+      "itemKey": "MCUR8CXF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MCUR8CXF"
+    },
+    {
+      "key": "KTVG9FRC",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) python\u5b9e\u73b0VaR\u548cCVaR\u7684\u8ba1\u7b97_\u72ec\u884c\u8005~\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_cvar python\u4ee3\u7801",
+      "url": "https://blog.csdn.net/weixin_46366341/article/details/125176334",
+      "accessDate": "2022-09-24T19:03:12Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-24T19:03:12Z",
+      "dateModified": "2022-09-24T19:03:12Z",
+      "uri": "http://zotero.org/users/8201183/items/KTVG9FRC",
+      "itemID": 176,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) python\u5b9e\u73b0VaR\u548cCVaR\u7684\u8ba1\u7b97_\u72ec\u884c\u8005~\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_cvar python\u4ee3\u7801",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T19:03:42Z",
+          "dateModified": "2022-09-24T19:03:42Z",
+          "uri": "http://zotero.org/users/8201183/items/UQ9A5UC3",
+          "path": "E:\\Zotero\\storage\\UQ9A5UC3\\125176334.html",
+          "select": "zotero://select/library/items/UQ9A5UC3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "10TiaoXiaoXiPythonShiXianVaRHeCVaRDeJiSuanDuXingZhe",
+      "itemKey": "KTVG9FRC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KTVG9FRC"
+    },
+    {
+      "key": "HSSTB3RC",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) \u4f7f\u7528matplotlib\u7ed8\u5236\u6f02\u4eae\u7684\u6b63\u6001\u51fd\u6570\u5206\u5e03\u66f2\u7ebf_\u90dd\u4f1f\u535a\u58eb\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_matplotlib \u6b63\u6001\u5206\u5e03",
+      "url": "https://blog.csdn.net/weixin_43145361/article/details/111876434",
+      "accessDate": "2022-09-23T13:47:33Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-23T13:47:33Z",
+      "dateModified": "2022-09-23T13:47:33Z",
+      "uri": "http://zotero.org/users/8201183/items/HSSTB3RC",
+      "itemID": 182,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) \u4f7f\u7528matplotlib\u7ed8\u5236\u6f02\u4eae\u7684\u6b63\u6001\u51fd\u6570\u5206\u5e03\u66f2\u7ebf_\u90dd\u4f1f\u535a\u58eb\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_matplotlib \u6b63\u6001\u5206\u5e03",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-23T13:47:46Z",
+          "dateModified": "2022-09-23T13:47:46Z",
+          "uri": "http://zotero.org/users/8201183/items/TSTLJIPD",
+          "path": "E:\\Zotero\\storage\\TSTLJIPD\\111876434.html",
+          "select": "zotero://select/library/items/TSTLJIPD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "10TiaoXiaoXiShiYongmatplotlibHuiZhiPiaoLiangDeZhengTaiHanShuFenBuQuXianHaoWeiBoShiDeBoKeCSDNBoKe",
+      "itemKey": "HSSTB3RC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HSSTB3RC"
+    },
+    {
+      "key": "2XNHNZES",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) \u8be6\u89e3 Numpy.ndarray_ViatorSun\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_numpy.ndarray",
+      "url": "https://blog.csdn.net/ViatorSun/article/details/107049893",
+      "accessDate": "2022-09-23T14:35:34Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-23T14:35:34Z",
+      "dateModified": "2022-09-23T14:35:34Z",
+      "uri": "http://zotero.org/users/8201183/items/2XNHNZES",
+      "itemID": 181,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) \u8be6\u89e3 Numpy.ndarray_ViatorSun\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_numpy.ndarray",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-23T14:35:50Z",
+          "dateModified": "2022-09-23T14:35:50Z",
+          "uri": "http://zotero.org/users/8201183/items/T89U7J32",
+          "path": "E:\\Zotero\\storage\\T89U7J32\\107049893.html",
+          "select": "zotero://select/library/items/T89U7J32"
+        }
+      ],
+      "notes": [],
+      "citationKey": "10TiaoXiaoXiXiangJieNumpy",
+      "itemKey": "2XNHNZES",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2XNHNZES"
+    },
+    {
+      "key": "WQ8GCSIV",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(10\u6761\u6d88\u606f) \u7528Python\u53d6np.array\u4e2d\u67d0\u51e0\u884c\u67d0\u51e0\u5217_Terry Tao\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_\u63d0\u53d6array\u7684\u67d0\u4e00\u5217",
+      "url": "https://blog.csdn.net/potato_prince/article/details/89357633",
+      "accessDate": "2022-09-24T19:17:00Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-24T19:17:00Z",
+      "dateModified": "2022-09-24T19:17:00Z",
+      "uri": "http://zotero.org/users/8201183/items/WQ8GCSIV",
+      "itemID": 175,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(10\u6761\u6d88\u606f) \u7528Python\u53d6np.array\u4e2d\u67d0\u51e0\u884c\u67d0\u51e0\u5217_Terry Tao\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_\u63d0\u53d6array\u7684\u67d0\u4e00\u5217",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T19:17:12Z",
+          "dateModified": "2022-09-24T19:17:12Z",
+          "uri": "http://zotero.org/users/8201183/items/5ZTNYP8Z",
+          "path": "E:\\Zotero\\storage\\5ZTNYP8Z\\89357633.html",
+          "select": "zotero://select/library/items/5ZTNYP8Z"
+        }
+      ],
+      "notes": [],
+      "citationKey": "10TiaoXiaoXiYongPythonQunpArrayZhongMouJiXingMouJiLie",
+      "itemKey": "WQ8GCSIV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WQ8GCSIV"
+    },
+    {
+      "key": "FXKURWMB",
+      "version": 770,
+      "itemType": "webpage",
+      "title": "(8\u6761\u6d88\u606f) python\u767b\u5f55\u7f51\u9875\u8d26\u53f7\u5bc6\u7801_Python \u901a\u8fc7\u722c\u866b\u5b9e\u73b0GitHub\u7f51\u9875\u7684\u6a21\u62df\u767b\u5f55\u7684\u793a\u4f8b\u4ee3\u7801_weixin_39917046\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+      "url": "https://blog.csdn.net/weixin_39917046/article/details/110179132",
+      "accessDate": "2022-09-25T09:46:06Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T09:46:06Z",
+      "dateModified": "2022-09-25T09:46:06Z",
+      "uri": "http://zotero.org/users/8201183/items/FXKURWMB",
+      "itemID": 165,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(8\u6761\u6d88\u606f) python\u767b\u5f55\u7f51\u9875\u8d26\u53f7\u5bc6\u7801_Python \u901a\u8fc7\u722c\u866b\u5b9e\u73b0GitHub\u7f51\u9875\u7684\u6a21\u62df\u767b\u5f55\u7684\u793a\u4f8b\u4ee3\u7801_weixin_39917046\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-25T09:46:13Z",
+          "dateModified": "2022-09-25T09:46:13Z",
+          "uri": "http://zotero.org/users/8201183/items/3BSIV2DH",
+          "path": "E:\\Zotero\\storage\\3BSIV2DH\\110179132.html",
+          "select": "zotero://select/library/items/3BSIV2DH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "8TiaoXiaoXiPythonDengLuWangYeZhangHaoMiMaPython",
+      "itemKey": "FXKURWMB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FXKURWMB"
+    },
+    {
+      "key": "CEAN9QI4",
+      "version": 806,
+      "itemType": "webpage",
+      "title": "(9\u6761\u6d88\u606f) Backtrader(\u516d) - \u5173\u4e8edatafeed_roy1126_\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_datafeed",
+      "url": "https://blog.csdn.net/weixin_44785098/article/details/122529154",
+      "accessDate": "2022-10-02T13:34:48Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T13:34:48Z",
+      "dateModified": "2022-10-02T13:34:48Z",
+      "uri": "http://zotero.org/users/8201183/items/CEAN9QI4",
+      "itemID": 678,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(9\u6761\u6d88\u606f) Backtrader(\u516d) - \u5173\u4e8edatafeed_roy1126_\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_datafeed",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T13:34:57Z",
+          "dateModified": "2022-10-02T13:34:57Z",
+          "uri": "http://zotero.org/users/8201183/items/IQXDGVF9",
+          "path": "E:\\Zotero\\storage\\IQXDGVF9\\122529154.html",
+          "select": "zotero://select/library/items/IQXDGVF9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "9TiaoXiaoXiBacktraderLiu",
+      "itemKey": "CEAN9QI4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CEAN9QI4"
+    },
+    {
+      "key": "R2EAS2VS",
+      "version": 810,
+      "itemType": "webpage",
+      "title": "(9\u6761\u6d88\u606f) Backtrader(\u516d) - \u5173\u4e8edatafeed_roy1126_\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_datafeed",
+      "url": "https://blog.csdn.net/weixin_44785098/article/details/122529154",
+      "accessDate": "2022-10-02T14:19:57Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T14:19:57Z",
+      "dateModified": "2022-10-02T14:19:57Z",
+      "uri": "http://zotero.org/users/8201183/items/R2EAS2VS",
+      "itemID": 680,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(9\u6761\u6d88\u606f) Backtrader(\u516d) - \u5173\u4e8edatafeed_roy1126_\u7684\u535a\u5ba2-CSDN\u535a\u5ba2_datafeed",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T14:20:10Z",
+          "dateModified": "2022-10-02T14:20:10Z",
+          "uri": "http://zotero.org/users/8201183/items/BTNRFRLN",
+          "path": "E:\\Zotero\\storage\\BTNRFRLN\\122529154.html",
+          "select": "zotero://select/library/items/BTNRFRLN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "9TiaoXiaoXiBacktraderLiua",
+      "itemKey": "R2EAS2VS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/R2EAS2VS"
+    },
+    {
+      "key": "CV5YHMUP",
+      "version": 833,
+      "itemType": "webpage",
+      "title": "(9\u6761\u6d88\u606f) backtrader_plotting\u6269\u5c55\u5305\uff1a\u7528bokeh\u6765\u53ef\u89c6\u5316bt\u6846\u67b6\u7684\u91cf\u5316\u7ed3\u679c_AI\u91cf\u5316\u6295\u8d44\u5b9e\u9a8c\u5ba4\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+      "url": "https://blog.csdn.net/weixin_38175458/article/details/127020744",
+      "accessDate": "2022-10-04T19:00:02Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-04T19:00:02Z",
+      "dateModified": "2022-10-04T19:00:02Z",
+      "uri": "http://zotero.org/users/8201183/items/CV5YHMUP",
+      "itemID": 695,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(9\u6761\u6d88\u606f) backtrader_plotting\u6269\u5c55\u5305\uff1a\u7528bokeh\u6765\u53ef\u89c6\u5316bt\u6846\u67b6\u7684\u91cf\u5316\u7ed3\u679c_AI\u91cf\u5316\u6295\u8d44\u5b9e\u9a8c\u5ba4\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-04T19:00:10Z",
+          "dateModified": "2022-10-04T19:00:10Z",
+          "uri": "http://zotero.org/users/8201183/items/L3CQINZW",
+          "path": "E:\\Zotero\\storage\\L3CQINZW\\127020744.html",
+          "select": "zotero://select/library/items/L3CQINZW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "9TiaoXiaoXiBacktraderPlottingKuoZhanBao",
+      "itemKey": "CV5YHMUP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CV5YHMUP"
+    },
+    {
+      "key": "FQ2PDIKA",
+      "version": 779,
+      "itemType": "webpage",
+      "title": "(9\u6761\u6d88\u606f) \u6210\u529f\u89e3\u51b3Solving environment: failed with initial frozen solve. Retrying with flexible solve._\u4e00\u4e2a\u5904\u5973\u5ea7\u7684\u7a0b\u5e8f\u733f\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+      "url": "https://yunyaniu.blog.csdn.net/article/details/114045204?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-114045204-blog-108312146.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-114045204-blog-108312146.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=1",
+      "accessDate": "2022-09-30T14:18:01Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-30T14:18:01Z",
+      "dateModified": "2022-09-30T14:18:01Z",
+      "uri": "http://zotero.org/users/8201183/items/FQ2PDIKA",
+      "itemID": 662,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(9\u6761\u6d88\u606f) \u6210\u529f\u89e3\u51b3Solving environment: failed with initial frozen solve. Retrying with flexible solve._\u4e00\u4e2a\u5904\u5973\u5ea7\u7684\u7a0b\u5e8f\u733f\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-30T14:18:09Z",
+          "dateModified": "2022-09-30T14:18:09Z",
+          "uri": "http://zotero.org/users/8201183/items/4PHSSUGE",
+          "path": "E:\\Zotero\\storage\\4PHSSUGE\\114045204.html",
+          "select": "zotero://select/library/items/4PHSSUGE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "9TiaoXiaoXiChengGongJieJueSolvingEnvironment",
+      "itemKey": "FQ2PDIKA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FQ2PDIKA"
+    },
+    {
+      "key": "PTT3UL3P",
+      "version": 893,
+      "itemType": "webpage",
+      "title": "A\u80a1\u77ed\u671f\u56de\u843d\u540e\u65b0\u80fd\u6e90\u8d5b\u9053\u4ecd\u7136\u662f\u6838\u5fc3\u4e3b\u7ebf220926.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209271578702116_1.pdf?1664274775000.pdf",
+      "accessDate": "2022-10-06T11:27:29Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:06Z",
+      "dateModified": "2022-10-06T12:48:06Z",
+      "uri": "http://zotero.org/users/8201183/items/PTT3UL3P",
+      "itemID": 732,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "A\u80a1\u77ed\u671f\u56de\u843d\u540e\u65b0\u80fd\u6e90\u8d5b\u9053\u4ecd\u7136\u662f\u6838\u5fc3\u4e3b\u7ebf220926.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\A\u80a1\u77ed\u671f\u56de\u843d\u540e\u65b0\u80fd\u6e90\u8d5b\u9053\u4ecd\u7136\u662f\u6838\u5fc3\u4e3b\u7ebf220926.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:40Z",
+          "dateModified": "2022-12-03T17:13:19Z",
+          "uri": "http://zotero.org/users/8201183/items/3TXBFQLL",
+          "select": "zotero://select/library/items/3TXBFQLL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "aguduanqihuiluohouxinnengyuansaidaorengranshihexinzhuxian220926",
+      "itemKey": "PTT3UL3P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PTT3UL3P"
+    },
+    {
+      "key": "KEHCTHPM",
+      "version": 816,
+      "itemType": "webpage",
+      "title": "backtrader\u540c\u65f6\u5e76\u884c\u8dd1\u591a\u4e2a\u7b56\u7565\uff0c\u51cf\u5c11\u6570\u636e\u52a0\u8f7d\u65f6\u95f4",
+      "abstractNote": "\u70b9\u6b64\u83b7\u53d6\u626b\u5730\u50e7backtrader\u6280\u672f\u6559\u7a0b===================== \u6709\u65f6\uff0c\u6211\u4eec\u8bbe\u8ba1\u4e86\u591a\u4e2a\u7b56\u7565\uff0c\u60f3\u9488\u5bf9\u67d0\u80a1\u7968\uff08\u6216\u67d0\u7ec4\u80a1\u7968\uff09\u4f9d\u6b21\u8dd1\u8fd9\u4e9b\u7b56\u7565\uff0c\u6bd4\u8f83\u5404\u4e2a\u7b56\u7565\u7684\u7ee9\u6548\u3002\u4f60\u53ef\u4ee5\u624b\u5de5\u9488\u5bf9\u7b56\u75651\uff0c\u52a0\u8f7d\u6570\u636e\u8dd1\u4e00\u904d\uff0c\u518d\u9488\u5bf9\u7b56\u75652\uff0c\u52a0\u8f7d\u6570\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/360384874",
+      "accessDate": "2022-10-02T19:14:10Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T19:14:10Z",
+      "dateModified": "2022-10-02T19:14:10Z",
+      "uri": "http://zotero.org/users/8201183/items/KEHCTHPM",
+      "itemID": 685,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T19:14:12Z",
+          "dateModified": "2022-10-02T19:14:12Z",
+          "uri": "http://zotero.org/users/8201183/items/ATRZ8BWX",
+          "path": "E:\\Zotero\\storage\\ATRZ8BWX\\360384874.html",
+          "select": "zotero://select/library/items/ATRZ8BWX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "BacktraderTongShiBingXingPaoDuoGeCeLueJianShaoShuJuJiaZaiShiJian",
+      "itemKey": "KEHCTHPM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KEHCTHPM",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "TVGPSWMA",
+      "version": 798,
+      "itemType": "webpage",
+      "title": "Backtrader\u4e2d\u6587\u7b14\u8bb0\u4e4bCSV Data Feed Development-General\uff08\u4e8c\u6b21\u4fee\u590d\uff09 - \u5c31\u662f\u60f3\u5b66\u4e60 - \u535a\u5ba2\u56ed",
+      "abstractNote": "Binary Datafeed Development \u4e8c\u8fdb\u5236\u6570\u636e\u6e90\u5f00\u53d1 Note The binary file used in the examples goog.fd belongs to Vi",
+      "language": "zh-cn",
+      "url": "https://www.cnblogs.com/sidianok/p/13490139.html",
+      "accessDate": "2022-10-02T13:04:32Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T13:04:32Z",
+      "dateModified": "2022-10-02T13:04:32Z",
+      "uri": "http://zotero.org/users/8201183/items/TVGPSWMA",
+      "itemID": 674,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T13:04:42Z",
+          "dateModified": "2022-10-02T13:04:42Z",
+          "uri": "http://zotero.org/users/8201183/items/TC83XW4Z",
+          "path": "E:\\Zotero\\storage\\TC83XW4Z\\13490139.html",
+          "select": "zotero://select/library/items/TC83XW4Z"
+        }
+      ],
+      "notes": [],
+      "citationKey": "BacktraderZhongWenBiJiZhiCSVDataFeed",
+      "itemKey": "TVGPSWMA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TVGPSWMA"
+    },
+    {
+      "key": "KE9BJT4J",
+      "version": 802,
+      "itemType": "webpage",
+      "title": "Backtrader\u4e2d\u6587\u7b14\u8bb0\u4e4bCSV Data Feed Development\uff08\u4e8c\u6b21\u4fee\u590d\uff09 - \u5c31\u662f\u60f3\u5b66\u4e60 - \u535a\u5ba2\u56ed",
+      "abstractNote": "CSV Data Feed Development backtrader already offers a Generic CSV Data feed and some specific CSV Da",
+      "language": "zh-cn",
+      "url": "https://www.cnblogs.com/sidianok/p/13476570.html",
+      "accessDate": "2022-10-02T13:06:16Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T13:06:16Z",
+      "dateModified": "2022-10-02T13:06:16Z",
+      "uri": "http://zotero.org/users/8201183/items/KE9BJT4J",
+      "itemID": 676,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T13:06:23Z",
+          "dateModified": "2022-10-02T13:06:23Z",
+          "uri": "http://zotero.org/users/8201183/items/C6X5QXAT",
+          "path": "E:\\Zotero\\storage\\C6X5QXAT\\13476570.html",
+          "select": "zotero://select/library/items/C6X5QXAT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "BacktraderZhongWenBiJiZhiCSVDataFeeda",
+      "itemKey": "KE9BJT4J",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KE9BJT4J"
+    },
+    {
+      "key": "NRSAGCJ6",
+      "version": 724,
+      "itemType": "encyclopediaArticle",
+      "title": "\u632f\u8361\u6d6e\u5b50\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e",
+      "abstractNote": "\u80fd\u8f6c\u6362\u88c5\u7f6e\u4e3b\u8981\u91c7\u7528\u6ce2\u6d6a\u80fd\u2014\u2014\u673a\u68b0\u80fd\u2014\u2014\u7535\u80fd\u7684\u8f6c\u6362\u65b9\u5f0f\u3002\u603b\u4f53\u6784\u60f3\u4e3a:\u9996\u5148\uff0c\u76f4\u63a5\u4e0e\u6d77\u6c34\u63a5\u89e6\u7684\u6d6e\u4f53\u968f\u7740\u6ce2\u6d6a\u505a\u8d77\u4f0f\u8fd0\u52a8\uff0c\u5c06\u6ce2\u6d6a\u80fd\u8f6c\u6362\u4e3a\u6d6e\u4f53\u6240\u6301\u6709\u7684\u673a\u68b0\u80fd;\u5176\u6b21\uff0c\u6d6e\u4f53\u7684\u8fd0\u52a8\u5e26\u52a8\u4e2d\u95f4\u7684\u673a\u68b0\u4f20\u52a8\u88c5\u7f6e\u8fd0\u52a8\uff0c\u673a\u68b0\u4f20\u52a8\u88c5\u7f6e\u9664\u4e86\u8d77\u5230\u589e\u901f\u4ee5\u53ca\u4f20\u9012\u80fd\u91cf\u7684\u4f5c\u7528\u5916\u8fd8\u6709\u66f4\u4e3a\u91cd\u8981\u7684\u4e00\u4e2a\u4f5c\u7528\uff0c\u5c31\u662f\u5c06\u6d6e\u4f53\u7684\u5f80\u590d\u8fd0\u52a8\u8f6c\u6362\u4e3a\u5355\u5411\u7684\u65cb\u8f6c\u8fd0\u52a8;\u6700\u540e\uff0c\u901a\u8fc7\u53d1\u7535\u673a\u5c06\u673a\u68b0\u4f20\u52a8\u88c5\u7f6e\u4f20\u9012\u8fc7\u6765\u7684\u673a\u68b0\u80fd\u8f6c\u6362\u4e3a\u7535\u80fd\u3002",
+      "date": "\u65e5\u671f\u4e0d\u8be6",
+      "url": "https://baike.baidu.com/item/%E6%8C%AF%E8%8D%A1%E6%B5%AE%E5%AD%90%E5%BC%8F%E6%B3%A2%E6%B5%AA%E8%83%BD%E5%8F%91%E7%94%B5%E8%A3%85%E7%BD%AE/21522327",
+      "accessDate": "2022-09-17T03:10:48Z",
+      "creators": [
+        {
+          "name": "\u767e\u5ea6\u767e\u79d1",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-17T03:10:48Z",
+      "dateModified": "2022-09-17T03:32:23Z",
+      "uri": "http://zotero.org/users/8201183/items/NRSAGCJ6",
+      "itemID": 190,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-17T03:10:56Z",
+          "dateModified": "2022-09-17T03:10:56Z",
+          "uri": "http://zotero.org/users/8201183/items/3ZTEBWX5",
+          "path": "E:\\Zotero\\storage\\3ZTEBWX5\\21522327.html",
+          "select": "zotero://select/library/items/3ZTEBWX5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "baidubaikeZhenDangFuZiShiBoLangNengFaDianZhuangZhiRiQiBuXiang",
+      "itemKey": "NRSAGCJ6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NRSAGCJ6",
+      "publicationTitle": "\u767e\u5ea6\u767e\u79d1"
+    },
+    {
+      "key": "KTI4YEVC",
+      "version": 771,
+      "itemType": "journalArticle",
+      "title": "\u6d45\u6790VaR\u65b9\u6cd5\u5728\u91d1\u878d\u671f\u8d27\u4ea4\u6613\u4e2d\u7684\u5e94\u7528",
+      "date": "2002-01",
+      "volume": "15",
+      "pages": "51-55",
+      "publicationTitle": "\u5357\u4eac\u7406\u5de5\u5927\u5b66\u5b66\u62a5\uff08\u793e\u4f1a\u79d1\u5b66\u7248\uff09",
+      "issue": "6",
+      "creators": [
+        {
+          "name": "\u5305\u6587\u5f6c",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u987e\u6d77\u5175",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T08:31:03Z",
+      "dateModified": "2022-09-25T08:31:03Z",
+      "uri": "http://zotero.org/users/8201183/items/KTI4YEVC",
+      "itemID": 173,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u5305\u6587\u5f6c_\u987e\u6d77\u5175_2002_\u6d45\u6790VaR\u65b9\u6cd5\u5728\u91d1\u878d\u671f\u8d27\u4ea4\u6613\u4e2d\u7684\u5e94\u7528.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u5305\u6587\u5f6c_\u987e\u6d77\u5175_2002_\u6d45\u6790VaR\u65b9\u6cd5\u5728\u91d1\u878d\u671f\u8d27\u4ea4\u6613\u4e2d\u7684\u5e94\u7528.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:00Z",
+          "dateModified": "2022-12-03T17:13:25Z",
+          "uri": "http://zotero.org/users/8201183/items/TQK6D8DU",
+          "select": "zotero://select/library/items/TQK6D8DU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "baowenbin2002qianxivarfangfazaijinrongqihuojiaoyizhongdeyingyong",
+      "itemKey": "KTI4YEVC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KTI4YEVC"
+    },
+    {
+      "key": "65P9V53S",
+      "version": 1228,
+      "itemType": "newspaperArticle",
+      "title": "9\u6708\u793e\u878d\u5927\u5e45\u589e\u52a0 \u5bbd\u4fe1\u7528\u8fdb\u4e00\u6b65\u63d0\u901f",
+      "date": "2022-10-12",
+      "language": "zh-CN",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=BJXD202210120070&v=",
+      "accessDate": "2022-10-14T16:22:08Z",
+      "extra": "Publisher: \u5317\u4eac\u5546\u62a5",
+      "pages": "007",
+      "publicationTitle": "\u5317\u4eac\u5546\u62a5",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u5317\u4eac\u5546\u62a5\u8bb0\u8005  \u5218\u56db\u7ea2",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:22:08Z",
+      "dateModified": "2022-10-14T16:23:19Z",
+      "uri": "http://zotero.org/users/8201183/items/65P9V53S",
+      "itemID": 821,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u5317\u4eac\u5546\u62a5\u8bb0\u8005 \u5218\u56db\u7ea2_2022_9\u6708\u793e\u878d\u5927\u5e45\u589e\u52a0 \u5bbd\u4fe1\u7528\u8fdb\u4e00\u6b65\u63d0\u901f.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u5317\u4eac\u5546\u62a5\u8bb0\u8005 \u5218\u56db\u7ea2_2022_9\u6708\u793e\u878d\u5927\u5e45\u589e\u52a0 \u5bbd\u4fe1\u7528\u8fdb\u4e00\u6b65\u63d0\u901f.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:13:10Z",
+          "dateModified": "2022-12-03T17:13:10Z",
+          "uri": "http://zotero.org/users/8201183/items/FCXG5VUD",
+          "select": "zotero://select/library/items/FCXG5VUD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "beijingshangbaojizheliusihong9YueSheRongDaFuZengJiaKuanXinYongJinYiBuTiSu2022",
+      "itemKey": "65P9V53S",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/65P9V53S"
+    },
+    {
+      "key": "PRK3TNQG",
+      "version": 1025,
+      "itemType": "webpage",
+      "title": "\u91cf\u5316\u6295\u8d44\u4e4b\u5de5\u5177\u7bc7\uff1aBacktrader\u4ece\u5165\u95e8\u5230\u7cbe\u901a\uff087\uff09Indicator\u7c7b\u4ee3\u7801\u8be6\u89e3(2\uff09",
+      "abstractNote": "\u91cf\u5316\u6295\u8d44\u4e4b\u5de5\u5177\u7bc7\uff1aBacktrader\u4ece\u5165\u95e8\u5230\u7cbe\u901a\uff087\uff09Indicator\u7c7b\u4ee3\u7801\u8be6\u89e3(2\uff09 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\u300c\u626b\u5730\u50e7backtrader\u7ed9\u529b\u6559\u7a0b\u7cfb\u5217\u300d\uff0c\u4f5c\u8005: \u4ed3\u9f20\u738b https://zhuanlan.zhihu.com/p/469528089",
+      "date": "2022/2/19 15:41:12",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/469528089",
+      "accessDate": "2022-10-08T13:13:21Z",
+      "extra": "\u8d5e\u6570:15;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u4ed3\u9f20\u738b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "\u6570\u91cf\u5316\u4ea4\u6613\u8005",
+          "type": 1
+        },
+        {
+          "tag": "backtrader",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-08T13:13:21Z",
+      "dateModified": "2022-10-08T13:13:21Z",
+      "uri": "http://zotero.org/users/8201183/items/PRK3TNQG",
+      "itemID": 750,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-08T13:13:37Z",
+          "dateModified": "2022-10-08T13:13:37Z",
+          "uri": "http://zotero.org/users/8201183/items/DEH73BEH",
+          "path": "E:\\Zotero\\storage\\DEH73BEH\\469528089.html",
+          "select": "zotero://select/library/items/DEH73BEH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "cangshuwangLiangHuaTouZiZhiGongJuPianBacktraderCongRuMenDaoJingTongIndicatorLeiDaiMaXiangJie2022",
+      "itemKey": "PRK3TNQG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PRK3TNQG",
+      "publicationTitle": "\u626b\u5730\u50e7backtrader\u7ed9\u529b\u6559\u7a0b\u7cfb\u5217",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "JYLUU3XP",
+      "version": 1033,
+      "itemType": "webpage",
+      "title": "\u91cf\u5316\u6295\u8d44\u4e4b\u5de5\u5177\u7bc7\uff1aBacktrader\u4ece\u5165\u95e8\u5230\u7cbe\u901a\uff085\uff09Strategy\u7c7b\u4ee3\u7801\u8be6\u89e3",
+      "abstractNote": "\u91cf\u5316\u6295\u8d44\u4e4b\u5de5\u5177\u7bc7\uff1aBacktrader\u4ece\u5165\u95e8\u5230\u7cbe\u901a\uff085\uff09Strategy\u7c7b\u4ee3\u7801\u8be6\u89e3 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\uff0c\u4f5c\u8005: \u4ed3\u9f20\u738b https://zhuanlan.zhihu.com/p/464114946",
+      "date": "2022/2/5 15:30:37",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/464114946",
+      "accessDate": "2022-10-08T15:32:03Z",
+      "extra": "\u8d5e\u6570:23;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u4ed3\u9f20\u738b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "backtrader",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-08T15:32:03Z",
+      "dateModified": "2022-10-08T15:32:03Z",
+      "uri": "http://zotero.org/users/8201183/items/JYLUU3XP",
+      "itemID": 755,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-08T15:32:21Z",
+          "dateModified": "2022-10-08T15:32:21Z",
+          "uri": "http://zotero.org/users/8201183/items/Q3BU99TE",
+          "path": "E:\\Zotero\\storage\\Q3BU99TE\\464114946.html",
+          "select": "zotero://select/library/items/Q3BU99TE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "cangshuwangLiangHuaTouZiZhiGongJuPianBacktraderCongRuMenDaoJingTongStrategyLeiDaiMaXiangJie2022",
+      "itemKey": "JYLUU3XP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JYLUU3XP",
+      "publicationTitle": "\u56de\u7b54",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "EXVNST4M",
+      "version": 1029,
+      "itemType": "webpage",
+      "title": "\uff3b\u7b56\u7565\uff3d\u57fa\u4e8e\u80dc\u7387\u7684\u8d8b\u52bf\u4ea4\u6613\u7b56\u7565 \u00b7 Python \u91cf\u5316\u4ea4\u6613\u6559\u7a0b",
+      "url": "https://wizardforcel.gitbooks.io/python-quant-uqer/content/110.html",
+      "accessDate": "2022-10-08T15:21:35Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-08T15:21:35Z",
+      "dateModified": "2022-10-08T15:21:35Z",
+      "uri": "http://zotero.org/users/8201183/items/EXVNST4M",
+      "itemID": 753,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\uff3b\u7b56\u7565\uff3d\u57fa\u4e8e\u80dc\u7387\u7684\u8d8b\u52bf\u4ea4\u6613\u7b56\u7565 \u00b7 Python \u91cf\u5316\u4ea4\u6613\u6559\u7a0b",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-08T15:21:44Z",
+          "dateModified": "2022-10-08T15:21:44Z",
+          "uri": "http://zotero.org/users/8201183/items/8B8J9RIJ",
+          "path": "E:\\Zotero\\storage\\8B8J9RIJ\\110.html",
+          "select": "zotero://select/library/items/8B8J9RIJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "CeLueJiYuShengLuDeQuShiJiaoYiCeLuePython",
+      "itemKey": "EXVNST4M",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EXVNST4M"
+    },
+    {
+      "key": "SJV432JK",
+      "version": 783,
+      "itemType": "webpage",
+      "title": "\u8d85\u8be6\u7ec6windows\u5b89\u88c5mongo\u6570\u636e\u5e93\u3001\u6ce8\u518c\u4e3a\u670d\u52a1\u5e76\u6dfb\u52a0\u73af\u5883\u53d8\u91cf - Forever77 - \u535a\u5ba2\u56ed",
+      "abstractNote": "1.\u5b98\u7f51\u4e0b\u8f7dzip\u5b89\u88c5\u5305 \u5b98\u7f51\u5730\u5740https://www.mongodb.com/download-center/community?jmp=nav\uff0c\u73b0\u5728windows\u7cfb\u7edf\u4e00\u822c\u90fd\u662f64\u4f4d\u7684\uff0c\u9009\u597d\u7248\u672c\u3001",
+      "language": "zh-cn",
+      "url": "https://www.cnblogs.com/Forever77/p/11193704.html",
+      "accessDate": "2022-10-01T13:05:13Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-01T13:05:13Z",
+      "dateModified": "2022-10-01T13:05:13Z",
+      "uri": "http://zotero.org/users/8201183/items/SJV432JK",
+      "itemID": 664,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "ChaoXiangXiwindowsAnZhuangmongoShuJuKuZhuCeWeiFuWuBingTianJiaHuanJingBianLiangForever77",
+      "itemKey": "SJV432JK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SJV432JK"
+    },
+    {
+      "key": "Z84AM6L3",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u623f\u5730\u4ea7\u957f\u6548\u673a\u5236\u7684\u6548\u679c\u8bc4\u4f30\u4e0e\u6539\u8fdb\u7b56\u7565 \u2014\u2014\u5b8f\u89c2\u653f\u7b56\"\u4e09\u7b56\u5408\u4e00\"\u7684\u89c6\u89d2",
+      "date": "2022-08",
+      "pages": "99-112",
+      "publicationTitle": "\u5b66\u4e60\u4e0e\u63a2\u7d22",
+      "issue": "8",
+      "creators": [
+        {
+          "name": "\u9648\u5c0f\u4eae",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u9648\u5f66\u658c",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T13:29:17Z",
+      "dateModified": "2022-10-30T13:29:17Z",
+      "uri": "http://zotero.org/users/8201183/items/Z84AM6L3",
+      "itemID": 867,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u9648\u5c0f\u4eae_\u9648\u5f66\u658c_2022_\u623f\u5730\u4ea7\u957f\u6548\u673a\u5236\u7684\u6548\u679c\u8bc4\u4f30\u4e0e\u6539\u8fdb\u7b56\u7565 \u2014\u2014\u5b8f\u89c2\u653f\u7b56\u4e09\u7b56\u5408\u4e00\u7684\u89c6\u89d2.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u9648\u5c0f\u4eae_\u9648\u5f66\u658c_2022_\u623f\u5730\u4ea7\u957f\u6548\u673a\u5236\u7684\u6548\u679c\u8bc4\u4f30\u4e0e\u6539\u8fdb\u7b56\u7565 \u2014\u2014\u5b8f\u89c2\u653f\u7b56\u4e09\u7b56\u5408\u4e00\u7684\u89c6\u89d2.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-30T14:02:34Z",
+          "dateModified": "2022-10-30T14:02:34Z",
+          "uri": "http://zotero.org/users/8201183/items/HX8INXLL",
+          "select": "zotero://select/library/items/HX8INXLL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "chenxiaoliangFangDiChanChangXiaoJiZhiDeXiaoGuoPingGuYuGaiJinCeLueHongGuanZhengCeSanCeHeYi2022",
+      "itemKey": "Z84AM6L3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z84AM6L3"
+    },
+    {
+      "key": "Y7L76939",
+      "version": 1214,
+      "itemType": "journalArticle",
+      "title": "\u91d1\u878d\u7a7a\u6d1e\u5316\u4e0e\"\u8d2b\u56f0\u6076\u6027\u5faa\u73af\"",
+      "date": "2003-01",
+      "pages": "51-53",
+      "publicationTitle": "\u5f53\u4ee3\u8d22\u7ecf",
+      "issue": "10",
+      "creators": [
+        {
+          "name": "\u8463\u79ef\u751f",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u6768\u5b66\u950b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "\u26d4 No DOI found",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T09:48:16Z",
+      "dateModified": "2022-10-14T09:48:19Z",
+      "uri": "http://zotero.org/users/8201183/items/Y7L76939",
+      "itemID": 818,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "dongjisheng2003",
+      "itemKey": "Y7L76939",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Y7L76939"
+    },
+    {
+      "key": "4H6YU9YB",
+      "version": 769,
+      "itemType": "webpage",
+      "title": "(8 \u5c01\u79c1\u4fe1 / 83 \u6761\u6d88\u606f) \u51c6\u5907\u5b66\u4e60\u4e0b\u91cf\u5316\uff0c\u53d1\u73b0\u5e02\u9762\u4e0a\u6709\u5f88\u591a\u91cf\u5316\u5e73\u53f0\uff0c\u805a\u5bbd\uff0c\u7c73\u5321\uff0cBIGQUANT\u7b49\u7b49\uff0c\u5927\u5bb6\u4f7f\u7528\u611f\u53d7\u600e\u4e48\u6837\uff1f - \u77e5\u4e4e",
+      "url": "https://www.zhihu.com/question/419359583/answer/2136779197",
+      "accessDate": "2022-09-24T11:07:07Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-24T11:07:07Z",
+      "dateModified": "2022-09-24T11:07:07Z",
+      "uri": "http://zotero.org/users/8201183/items/4H6YU9YB",
+      "itemID": 177,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(8 \u5c01\u79c1\u4fe1 / 83 \u6761\u6d88\u606f) \u51c6\u5907\u5b66\u4e60\u4e0b\u91cf\u5316\uff0c\u53d1\u73b0\u5e02\u9762\u4e0a\u6709\u5f88\u591a\u91cf\u5316\u5e73\u53f0\uff0c\u805a\u5bbd\uff0c\u7c73\u5321\uff0cBIGQUANT\u7b49\u7b49\uff0c\u5927\u5bb6\u4f7f\u7528\u611f\u53d7\u600e\u4e48\u6837\uff1f - \u77e5\u4e4e",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T11:07:18Z",
+          "dateModified": "2022-09-24T11:07:18Z",
+          "uri": "http://zotero.org/users/8201183/items/AM3JDG2H",
+          "path": "E:\\Zotero\\storage\\AM3JDG2H\\2136779197.html",
+          "select": "zotero://select/library/items/AM3JDG2H"
+        }
+      ],
+      "notes": [],
+      "citationKey": "FengSiXin83TiaoXiaoXi",
+      "itemKey": "4H6YU9YB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4H6YU9YB"
+    },
+    {
+      "key": "IC9QAS3Y",
+      "version": 768,
+      "itemType": "webpage",
+      "title": "(8 \u5c01\u79c1\u4fe1 / 83 \u6761\u6d88\u606f) \u5b66\u91d1\u878d\u7684\u8003\u4ec0\u4e48\u8bc1\u6bd4\u8f83\u5b9e\u7528\uff1f - \u77e5\u4e4e",
+      "url": "https://www.zhihu.com/question/280575052?sort=created",
+      "accessDate": "2022-09-21T07:00:02Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-21T07:00:02Z",
+      "dateModified": "2022-09-21T07:00:02Z",
+      "uri": "http://zotero.org/users/8201183/items/IC9QAS3Y",
+      "itemID": 184,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(8 \u5c01\u79c1\u4fe1 / 83 \u6761\u6d88\u606f) \u5b66\u91d1\u878d\u7684\u8003\u4ec0\u4e48\u8bc1\u6bd4\u8f83\u5b9e\u7528\uff1f - \u77e5\u4e4e",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-21T07:00:22Z",
+          "dateModified": "2022-09-21T07:00:22Z",
+          "uri": "http://zotero.org/users/8201183/items/Z9KLLYX6",
+          "path": "E:\\Zotero\\storage\\Z9KLLYX6\\280575052.html",
+          "select": "zotero://select/library/items/Z9KLLYX6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "FengSiXin83TiaoXiaoXia",
+      "itemKey": "IC9QAS3Y",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IC9QAS3Y"
+    },
+    {
+      "key": "BSQUHDUG",
+      "version": 784,
+      "itemType": "webpage",
+      "title": "(8 \u5c01\u79c1\u4fe1 / 4 \u6761\u6d88\u606f) \u4e2a\u4eba\u505a\u91cf\u5316\u4ea4\u6613\u9760\u8c31\u5417\uff1f - \u77e5\u4e4e",
+      "url": "https://www.zhihu.com/question/329206671/answer/2471938945",
+      "accessDate": "2022-10-01T18:25:10Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-01T18:25:10Z",
+      "dateModified": "2022-10-01T18:25:10Z",
+      "uri": "http://zotero.org/users/8201183/items/BSQUHDUG",
+      "itemID": 665,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(8 \u5c01\u79c1\u4fe1 / 4 \u6761\u6d88\u606f) \u4e2a\u4eba\u505a\u91cf\u5316\u4ea4\u6613\u9760\u8c31\u5417\uff1f - \u77e5\u4e4e",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-01T18:25:19Z",
+          "dateModified": "2022-10-01T18:25:19Z",
+          "uri": "http://zotero.org/users/8201183/items/G4C6B2C7",
+          "path": "E:\\Zotero\\storage\\G4C6B2C7\\2471938945.html",
+          "select": "zotero://select/library/items/G4C6B2C7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "FengSiXinTiaoXiaoXiGeRenZuoLiangHuaJiaoYiKaoPuMa",
+      "itemKey": "BSQUHDUG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BSQUHDUG"
+    },
+    {
+      "key": "K6VJSHRB",
+      "version": 789,
+      "itemType": "webpage",
+      "title": "\u4e2a\u4eba\u505a\u91cf\u5316\u4ea4\u6613\u9760\u8c31\u5417\uff1f - \u77e5\u4e4e",
+      "url": "https://www.zhihu.com/question/329206671/answer/1350942086",
+      "accessDate": "2022-10-01T18:49:09Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-01T18:49:09Z",
+      "dateModified": "2022-10-01T18:49:09Z",
+      "uri": "http://zotero.org/users/8201183/items/K6VJSHRB",
+      "itemID": 668,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "GeRenZuoLiangHuaJiaoYiKaoPuMaZhiHu",
+      "itemKey": "K6VJSHRB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/K6VJSHRB"
+    },
+    {
+      "key": "VXMLSLVY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u623f\u5730\u4ea7\u8c03\u63a7\u653f\u7b56\u5bf9\u5546\u54c1\u4f4f\u623f\u4ef7\u683c\u5f71\u54cd\u7814\u7a76\u2014\u2014\u4ee5\u5168\u56fd29\u4e2a\u5927\u57ce\u5e02\u4e3a\u4f8b",
+      "date": "2022-03",
+      "volume": "58",
+      "pages": "317-325",
+      "publicationTitle": "\u5317\u4eac\u5927\u5b66\u5b66\u62a5\uff08\u81ea\u7136\u79d1\u5b66\u7248\uff09",
+      "issue": "2",
+      "creators": [
+        {
+          "name": "\u8d3a\u4e00\u821f",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u90ed\u6c38\u6c9b",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u90ed\u7ff0",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u51af\u957f\u6625",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T13:29:16Z",
+      "dateModified": "2022-10-30T13:29:16Z",
+      "uri": "http://zotero.org/users/8201183/items/VXMLSLVY",
+      "itemID": 866,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u8d3a\u4e00\u821f et al_2022_\u623f\u5730\u4ea7\u8c03\u63a7\u653f\u7b56\u5bf9\u5546\u54c1\u4f4f\u623f\u4ef7\u683c\u5f71\u54cd\u7814\u7a76\u2014\u2014\u4ee5\u5168\u56fd29\u4e2a\u5927\u57ce\u5e02\u4e3a\u4f8b.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u8d3a\u4e00\u821f et al_2022_\u623f\u5730\u4ea7\u8c03\u63a7\u653f\u7b56\u5bf9\u5546\u54c1\u4f4f\u623f\u4ef7\u683c\u5f71\u54cd\u7814\u7a76\u2014\u2014\u4ee5\u5168\u56fd29\u4e2a\u5927\u57ce\u5e02\u4e3a\u4f8b.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-30T14:02:40Z",
+          "dateModified": "2022-10-30T14:02:40Z",
+          "uri": "http://zotero.org/users/8201183/items/XUJ2STM7",
+          "select": "zotero://select/library/items/XUJ2STM7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "heyizhouFangDiChanDiaoKongZhengCeDuiShangPinZhuFangJieGeYingXiangYanJiuYiQuanGuo29GeDaChengShiWeiLi2022",
+      "itemKey": "VXMLSLVY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VXMLSLVY"
+    },
+    {
+      "key": "D72EKJ3E",
+      "version": 724,
+      "itemType": "thesis",
+      "title": "\u8fce\u6d6a\u822a\u884c\u65f6\u8239\u8236\u5782\u8361\u7eb5\u6447\u8fd0\u52a8\u5efa\u6a21\u4e0e\u4eff\u771f",
+      "date": "2015",
+      "creators": [
+        {
+          "name": "\u4faf\u5723\u8d24",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-17T04:01:55Z",
+      "dateModified": "2022-09-17T04:01:55Z",
+      "uri": "http://zotero.org/users/8201183/items/D72EKJ3E",
+      "itemID": 189,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u4faf\u5723\u8d24_2015_\u8fce\u6d6a\u822a\u884c\u65f6\u8239\u8236\u5782\u8361\u7eb5\u6447\u8fd0\u52a8\u5efa\u6a21\u4e0e\u4eff\u771f.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u4faf\u5723\u8d24_2015_\u8fce\u6d6a\u822a\u884c\u65f6\u8239\u8236\u5782\u8361\u7eb5\u6447\u8fd0\u52a8\u5efa\u6a21\u4e0e\u4eff\u771f.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:24Z",
+          "dateModified": "2022-12-03T17:13:28Z",
+          "uri": "http://zotero.org/users/8201183/items/D8N3UNDQ",
+          "select": "zotero://select/library/items/D8N3UNDQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "houshengxian2015yinglanghangxingshichuanbochuidangzongyaoyundongjianmoyufangzhen",
+      "itemKey": "D72EKJ3E",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D72EKJ3E",
+      "publisher": "\u5927\u8fde\u6d77\u4e8b\u5927\u5b66",
+      "type": "\u7855\u58eb\u8bba\u6587"
+    },
+    {
+      "key": "647LJI23",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u4e2d\u56fd\u623f\u5730\u4ea7\u5e02\u573a:\u8fc7\u53bb\u3001\u73b0\u5728\u548c\u672a\u6765",
+      "date": "2022-04",
+      "volume": "42",
+      "pages": "1-8",
+      "publicationTitle": "\u7ba1\u7406\u73b0\u4ee3\u5316",
+      "issue": "2",
+      "creators": [
+        {
+          "name": "\u9ec4\u5947\u5e06",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:07Z",
+      "dateModified": "2022-10-30T15:04:07Z",
+      "uri": "http://zotero.org/users/8201183/items/647LJI23",
+      "itemID": 877,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "huangqifanZhongGuoFangDiChanShiChangGuoQuXianZaiHeWeiLai2022",
+      "itemKey": "647LJI23",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/647LJI23"
+    },
+    {
+      "key": "JIITBCFN",
+      "version": 773,
+      "itemType": "webpage",
+      "title": "matplotlib\u7ed8\u56fe\u989c\u8272\u53ca\u6807\u8bb0\u70b9\u5f62\u72b6\u8bbe\u7f6e\uff08\u6563\u70b9\u56fescatter\u540c\u7406\uff09",
+      "abstractNote": "matplotlib\u7ed8\u56fe\u989c\u8272\u53ca\u6807\u8bb0\u70b9\u5f62\u72b6\u8bbe\u7f6e\uff08\u6563\u70b9\u56fescatter\u540c\u7406\uff09 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\u300cPython\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u9047\u5230\u7684\u95ee\u9898\u300d\uff0c\u4f5c\u8005: \u82b1\u5c0f\u5434 https://zhuanlan.zhihu.com/p/520594916",
+      "date": "2022/5/27 09:23:35",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/520594916",
+      "accessDate": "2022-09-23T15:02:56Z",
+      "extra": "\u8d5e\u6570:0;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u82b1\u5c0f\u5434",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Matplotlib",
+          "type": 1
+        },
+        {
+          "tag": "Python",
+          "type": 1
+        },
+        {
+          "tag": "Python \u5e93",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-23T15:02:56Z",
+      "dateModified": "2022-09-23T15:02:56Z",
+      "uri": "http://zotero.org/users/8201183/items/JIITBCFN",
+      "itemID": 180,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-23T15:03:15Z",
+          "dateModified": "2022-09-23T15:03:15Z",
+          "uri": "http://zotero.org/users/8201183/items/DVC9RYHX",
+          "path": "E:\\Zotero\\storage\\DVC9RYHX\\520594916.html",
+          "select": "zotero://select/library/items/DVC9RYHX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "huaxiaowuMatplotlibHuiTuYanSeJiBiaoJiDianXingZhuangSheZhiSanDianTuscatterTongLi2022",
+      "itemKey": "JIITBCFN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JIITBCFN",
+      "publicationTitle": "Python\u4f7f\u7528\u8fc7\u7a0b\u4e2d\u9047\u5230\u7684\u95ee\u9898",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "BRMJF2GC",
+      "version": 724,
+      "itemType": "journalArticle",
+      "title": "\u632f\u8361\u6d6e\u5b50\u5f0f\u6ce2\u6d6a\u53d1\u7535\u7cfb\u7edf\u7684\u5206\u6bb5\u63a7\u5236",
+      "abstractNote": "\u9488\u5bf9\u6ce2\u6d6a\u53d1\u7535\u6548\u7387\u4f4e\u95ee\u9898,\u6587\u7ae0\u63d0\u51fa\u4e86\u4e00\u79cd\u632f\u8361\u6d6e\u5b50\u5f0f\u6ce2\u6d6a\u53d1\u7535\u5206\u6bb5\u63a7\u5236\u7b56\u7565\u3002\u5728\u8003\u8651\u53d1\u7535\u673a\u6548\u7387\u7684\u524d\u63d0\u4e0b,\u63d0\u51fa\u4f4e\u901f\u7a7a\u8f7d\u50a8\u80fd\u8fd0\u884c\u4e0e\u9ad8\u901f\u5e26\u8f7d\u53d1\u7535\u8fd0\u884c\u76f8\u7ed3\u5408,\u4ee5\u63d0\u9ad8\u53d1\u7535\u91cf\u3002\u5728Matlab/Simulink\u73af\u5883\u4e0b\u642d\u5efa\u6a21\u578b\u8fdb\u884c\u4eff\u771f\u8ba1\u7b97,\u5206\u6790\u4e86\u5207\u5165\u901f\u5ea6\u548c\u5207\u51fa\u901f\u5ea6\u5bf9\u8f93\u51fa\u529f\u7387\u7684\u5f71\u54cd,\u5e76\u5728\u673a\u7535\u6a21\u62df\u5b9e\u9a8c\u5e73\u53f0\u4e0a\u8fdb\u884c\u4e86\u63a7\u5236\u8bd5\u9a8c\u9a8c\u8bc1\u3002\u4eff\u771f\u4e0e\u8bd5\u9a8c\u7ed3\u679c\u8868\u660e,\u91c7\u7528\u8be5\u65b9\u6cd5\u63d0\u9ad8\u4e86\u6ce2\u6d6a\u53d1\u7535\u7684\u5e73\u5747\u8f93\u51fa\u529f\u7387\u3002",
+      "date": "2018",
+      "language": "\u4e2d\u6587;",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=NCNY201812010&v=",
+      "extra": "2 citations(CNKI)[2022-9-16]<\u5317\u5927\u6838\u5fc3>",
+      "volume": "36",
+      "pages": "1794-1799",
+      "publicationTitle": "\u53ef\u518d\u751f\u80fd\u6e90",
+      "DOI": "10.13941/j.cnki.21-1469/tk.2018.12.010",
+      "issue": "12",
+      "ISSN": "1671-5292",
+      "creators": [
+        {
+          "name": "\u59dc\u5143",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u6768\u91d1\u660e",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u8c22\u6cfd\u5764",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u6797\u51ef\u4e1c",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u6ce2\u6d6a\u80fd\u53d1\u7535",
+          "type": 1
+        },
+        {
+          "tag": "\u5206\u6bb5\u63a7\u5236",
+          "type": 1
+        },
+        {
+          "tag": "\u632f\u8361\u6d6e\u5b50 wave power generation",
+          "type": 1
+        },
+        {
+          "tag": "oscillating Buoy",
+          "type": 1
+        },
+        {
+          "tag": "subsection control strategy",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-16T14:56:04Z",
+      "dateModified": "2022-09-16T15:00:39Z",
+      "uri": "http://zotero.org/users/8201183/items/BRMJF2GC",
+      "itemID": 191,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u59dc\u5143 et al_2018_\u632f\u8361\u6d6e\u5b50\u5f0f\u6ce2\u6d6a\u53d1\u7535\u7cfb\u7edf\u7684\u5206\u6bb5\u63a7\u5236.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u59dc\u5143 et al_2018_\u632f\u8361\u6d6e\u5b50\u5f0f\u6ce2\u6d6a\u53d1\u7535\u7cfb\u7edf\u7684\u5206\u6bb5\u63a7\u5236.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:28Z",
+          "dateModified": "2022-12-03T17:13:29Z",
+          "uri": "http://zotero.org/users/8201183/items/22WLYIE7",
+          "select": "zotero://select/library/items/22WLYIE7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jiangyuan2018zhendangfuzishibolangfadianxitongdefenduankongzhi",
+      "itemKey": "BRMJF2GC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BRMJF2GC"
+    },
+    {
+      "key": "XKMFAEPF",
+      "version": 1195,
+      "itemType": "newspaperArticle",
+      "title": "\u95f4\u63a5\u6301\u80a1\u6d1b\u9633\u94bc\u4e1a\uff0c\u6df1\u5316\u4e0a\u6e38\u4e00\u4f53\u5316\u5e03\u5c40",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-13T14:30:16Z",
+      "dateModified": "2022-10-13T14:30:45Z",
+      "uri": "http://zotero.org/users/8201183/items/XKMFAEPF",
+      "itemID": 794,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u95f4\u63a5\u6301\u80a1\u6d1b\u9633\u94bc\u4e1a\uff0c\u6df1\u5316\u4e0a\u6e38\u4e00\u4f53\u5316\u5e03\u5c40.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u95f4\u63a5\u6301\u80a1\u6d1b\u9633\u94bc\u4e1a\uff0c\u6df1\u5316\u4e0a\u6e38\u4e00\u4f53\u5316\u5e03\u5c40.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:28Z",
+          "dateModified": "2022-12-03T17:13:15Z",
+          "uri": "http://zotero.org/users/8201183/items/4RBEQXBE",
+          "select": "zotero://select/library/items/4RBEQXBE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jianjiechiguluoyangmuye",
+      "itemKey": "XKMFAEPF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XKMFAEPF"
+    },
+    {
+      "key": "6Y7NAJKM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u7ecf\u6d4e\u5b66\u4eba",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-03T17:13:14Z",
+      "dateModified": "2022-12-03T17:13:34Z",
+      "uri": "http://zotero.org/users/8201183/items/6Y7NAJKM",
+      "itemID": 898,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u7ecf\u6d4e\u5b66\u4eba.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u7ecf\u6d4e\u5b66\u4eba.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:13:53Z",
+          "dateModified": "2022-12-03T17:13:53Z",
+          "uri": "http://zotero.org/users/8201183/items/99ZDDJX7",
+          "select": "zotero://select/library/items/99ZDDJX7"
+        },
+        {
+          "itemType": "attachment",
+          "title": "\u7ecf\u6d4e\u5b66\u4eba.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u7ecf\u6d4e\u5b66\u4eba2.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:14:02Z",
+          "dateModified": "2022-12-03T17:14:09Z",
+          "uri": "http://zotero.org/users/8201183/items/RUUT8UDH",
+          "select": "zotero://select/library/items/RUUT8UDH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "JingJiXueRen",
+      "itemKey": "6Y7NAJKM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6Y7NAJKM"
+    },
+    {
+      "key": "FD34ZWJR",
+      "version": 892,
+      "itemType": "webpage",
+      "title": "\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a59.30.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209301578789897_1.pdf?1664530126000.pdf",
+      "accessDate": "2022-10-06T11:26:22Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:03Z",
+      "dateModified": "2022-10-06T12:48:03Z",
+      "uri": "http://zotero.org/users/8201183/items/FD34ZWJR",
+      "itemID": 728,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a59.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a59.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:54Z",
+          "dateModified": "2022-12-03T17:13:22Z",
+          "uri": "http://zotero.org/users/8201183/items/FAN8ALHG",
+          "select": "zotero://select/library/items/FAN8ALHG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jinrongyanshengpincelueribao9",
+      "itemKey": "FD34ZWJR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FD34ZWJR"
+    },
+    {
+      "key": "ZRZP2D4N",
+      "version": 892,
+      "itemType": "webpage",
+      "title": "\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a59.28.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209281578730083_1.pdf?1664357123000.pdf",
+      "accessDate": "2022-10-06T11:26:27Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:02Z",
+      "dateModified": "2022-10-06T12:48:02Z",
+      "uri": "http://zotero.org/users/8201183/items/ZRZP2D4N",
+      "itemID": 727,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a59.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u91d1\u878d\u884d\u751f\u54c1\u7b56\u7565\u65e5\u62a52.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:57Z",
+          "dateModified": "2022-12-03T17:13:23Z",
+          "uri": "http://zotero.org/users/8201183/items/QFKGDR7X",
+          "select": "zotero://select/library/items/QFKGDR7X"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jinrongyanshengpincelueribao9a",
+      "itemKey": "ZRZP2D4N",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZRZP2D4N"
+    },
+    {
+      "key": "YBGLKRB4",
+      "version": 1246,
+      "itemType": "document",
+      "title": "\u57fa\u4e8e\u4e8b\u4ef6\u9a71\u52a8\u7684\u8bc1\u5238\u5e02\u573a\u6ce2\u52a8\u751f\u6210\u673a\u5236\u5206\u6790_\u674e\u5907\u53cb.pdf",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:36:04Z",
+      "dateModified": "2022-10-14T16:36:06Z",
+      "uri": "http://zotero.org/users/8201183/items/YBGLKRB4",
+      "itemID": 853,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u57fa\u4e8e\u4e8b\u4ef6\u9a71\u52a8\u7684\u8bc1\u5238\u5e02\u573a\u6ce2\u52a8\u751f\u6210\u673a\u5236\u5206\u6790_\u674e\u5907\u53cb.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u57fa\u4e8e\u4e8b\u4ef6\u9a71\u52a8\u7684\u8bc1\u5238\u5e02\u573a\u6ce2\u52a8\u751f\u6210\u673a\u5236\u5206\u6790_\u674e\u5907\u53cb.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:12:49Z",
+          "dateModified": "2022-12-03T17:12:49Z",
+          "uri": "http://zotero.org/users/8201183/items/TFX2IJ87",
+          "select": "zotero://select/library/items/TFX2IJ87"
+        }
+      ],
+      "notes": [],
+      "citationKey": "JiYuShiJianQuDongDeZhengQuanShiChangBoDongShengChengJiZhiFenXiLiBeiYouPdf",
+      "itemKey": "YBGLKRB4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YBGLKRB4"
+    },
+    {
+      "key": "TCXBH3D3",
+      "version": 0,
+      "itemType": "webpage",
+      "title": "\u201c\u5bbd\u8d27\u5e01\u5bbd\u4fe1\u7528\u201d\u5468\u671f\u5373\u5c06\u5230\u6765",
+      "abstractNote": "2018\u5e74\u4ee5\u6765\uff0c10\u5e74\u671f\u56fd\u503a\u5229\u7387\u4e0b\u884c\uff0c\u503a\u5238\u5e02\u573a\u8fce\u6765\u5229\u597d\uff0c\u957f\u671f\u7eaf\u503a\u57fa\u91d1\u4e2d\u6709200\u4f59\u53ea\u8fd1\u4e00\u5e74\u7684\u6536\u76ca\u8d85\u8fc77%\uff0c\u8fdc\u8d85\u8d27\u5e01\u57fa\u91d1\uff0c\u6da8\u5e45\u6700\u9ad8\u76841\u53ea\u57281\u5e74\u5185\u7ffb\u4e86\u4e00\u500d\u3002\u5173\u4e8e\u5e02\u573a\u5229\u7387\u4e0b\u884c\u4e0e\u503a\u5238\u725b\u5e02\u7684\u5173\u7cfb\uff0c\u5728\u6b64\u524d\u7684\u300a \u652f\u4ed8\u5b9d\u4e0e\u7406\u8d22\u901a\u529b\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/55085954",
+      "accessDate": "2022-11-09T11:04:19Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-11-09T11:04:19Z",
+      "dateModified": "2022-11-09T11:05:01Z",
+      "uri": "http://zotero.org/users/8201183/items/TCXBH3D3",
+      "itemID": 884,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-11-09T11:04:35Z",
+          "dateModified": "2022-11-09T11:04:35Z",
+          "uri": "http://zotero.org/users/8201183/items/F24CHAIU",
+          "path": "E:\\Zotero\\storage\\F24CHAIU\\55085954.html",
+          "select": "zotero://select/library/items/F24CHAIU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "KuanHuoBiKuanXinYongZhouQiJiJiangDaoLai",
+      "itemKey": "TCXBH3D3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TCXBH3D3",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "2CC8GB2Q",
+      "version": 770,
+      "itemType": "blogPost",
+      "title": "\u91cf\u5316\u6295\u8d44\u7684\u5f3a\u5316\u5b66\u4e60\u795e\u5668\uff01FinRL \u5165\u95e8\u6307\u5357",
+      "abstractNote": "\u672c\u6587\u5c06\u57fa\u4e8eFinRL\u6559\u4f60\u5b9e\u73b0\u4e00\u4e2a\u8d85\u989d\u6536\u76ca7%\u7684\u5f3a\u5316\u5b66\u4e60\u6a21\u578b\u3002\u5173\u4e8e\u5f3a\u5316\u5b66\u4e60\u7684\u57fa\u7840\u77e5\u8bc6\uff0c\u53ef\u4ee5\u9605\u8bfb\u6211\u4eec\u4ee5\u524d\u53d1\u8868\u7684\u4e00\u7bc7\u57fa\u7840\u6587\u7ae0\uff1a \u300a \u4ec0\u4e48\u662f\u5f3a\u5316\u5b66\u4e60\uff1f\u9884\u6d4b\u80a1\u7968\u7684\u6548\u679c\u5982\u4f55\uff1f\u300b\u4f7f\u7528\u5f3a\u5316\u5b66\u4e60\u9884\u6d4b\u80a1\u4ef7\uff0c\u7c7b\u4f3c\u4e8e\u5fc3\u7406\u5b66\u4e2d\u7684\u64cd\u4f5c\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/538026404",
+      "accessDate": "2022-09-27T12:00:26Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-27T12:00:26Z",
+      "dateModified": "2022-09-27T12:01:06Z",
+      "uri": "http://zotero.org/users/8201183/items/2CC8GB2Q",
+      "itemID": 160,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-27T12:00:36Z",
+          "dateModified": "2022-09-27T12:00:36Z",
+          "uri": "http://zotero.org/users/8201183/items/HX3WWXSD",
+          "path": "E:\\Zotero\\storage\\HX3WWXSD\\538026404.html",
+          "select": "zotero://select/library/items/HX3WWXSD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "LiangHuaTouZiDeQiangHuaXueXiShenQiFinRLRuMenZhiNan",
+      "itemKey": "2CC8GB2Q",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2CC8GB2Q",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "VT5FVGGU",
+      "version": 790,
+      "itemType": "webpage",
+      "title": "\u91cf\u5316\u6295\u8d44\u5206\u6790-BackTrader-\u57fa\u7840\u6559\u7a0b | \u7801\u519c\u5bb6\u56ed",
+      "url": "https://www.codenong.com/cs105158137/",
+      "accessDate": "2022-10-02T12:07:18Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-02T12:07:18Z",
+      "dateModified": "2022-10-02T12:07:18Z",
+      "uri": "http://zotero.org/users/8201183/items/VT5FVGGU",
+      "itemID": 669,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u91cf\u5316\u6295\u8d44\u5206\u6790-BackTrader-\u57fa\u7840\u6559\u7a0b | \u7801\u519c\u5bb6\u56ed",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T12:07:27Z",
+          "dateModified": "2022-10-02T12:07:27Z",
+          "uri": "http://zotero.org/users/8201183/items/7S9KIBBH",
+          "path": "E:\\Zotero\\storage\\7S9KIBBH\\cs105158137.html",
+          "select": "zotero://select/library/items/7S9KIBBH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "LiangHuaTouZiFenXiBackTraderJiChuJiaoChengMaNongJiaYuan",
+      "itemKey": "VT5FVGGU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VT5FVGGU"
+    },
+    {
+      "key": "A9EM67C7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u623f\u5730\u4ea7\u5e02\u573a\u4e0e\u56fd\u6c11\u7ecf\u6d4e\u534f\u8c03\u53d1\u5c55\u7684\u5b9e\u8bc1\u5206\u6790",
+      "date": "2006-01",
+      "pages": "74-84",
+      "publicationTitle": "\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66",
+      "issue": "3",
+      "creators": [
+        {
+          "name": "\u6881\u4e91\u82b3",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u9ad8\u94c1\u6885",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u8d3a\u4e66\u5e73",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:07Z",
+      "dateModified": "2022-10-30T15:04:07Z",
+      "uri": "http://zotero.org/users/8201183/items/A9EM67C7",
+      "itemID": 881,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "liangyunfangFangDiChanShiChangYuGuoMinJingJiXieDiaoFaZhanDeShiZhengFenXi2006",
+      "itemKey": "A9EM67C7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/A9EM67C7"
+    },
+    {
+      "key": "A9YHVMQC",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u4e2d\u56fd\u623f\u5730\u4ea7\u4ef7\u683c\u6ce2\u52a8\u533a\u57df\u5dee\u5f02\u7684\u5b9e\u8bc1\u5206\u6790",
+      "date": "2007-01",
+      "volume": "42",
+      "pages": "133-142",
+      "publicationTitle": "\u7ecf\u6d4e\u7814\u7a76",
+      "issue": "8",
+      "creators": [
+        {
+          "name": "\u6881\u4e91\u82b3",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u9ad8\u94c1\u6885",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:07Z",
+      "dateModified": "2022-10-30T15:04:07Z",
+      "uri": "http://zotero.org/users/8201183/items/A9YHVMQC",
+      "itemID": 879,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "liangyunfangZhongGuoFangDiChanJieGeBoDongQuYuChaiYiDeShiZhengFenXi2007",
+      "itemKey": "A9YHVMQC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/A9YHVMQC"
+    },
+    {
+      "key": "B25SA7D8",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u623f\u5730\u4ea7\u4f01\u4e1a\u5185\u90e8\u63a7\u5236\u5b58\u5728\u7684\u95ee\u9898\u53ca\u5bf9\u7b56\u63a2\u8ba8",
+      "date": "2022-05",
+      "pages": "168-170",
+      "publicationTitle": "\u4f01\u4e1a\u6539\u9769\u4e0e\u7ba1\u7406",
+      "issue": "9",
+      "creators": [
+        {
+          "name": "\u674e\u6155\u82ac",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T14:55:02Z",
+      "dateModified": "2022-10-30T14:55:02Z",
+      "uri": "http://zotero.org/users/8201183/items/B25SA7D8",
+      "itemID": 874,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u674e\u6155\u82ac_2022_\u623f\u5730\u4ea7\u4f01\u4e1a\u5185\u90e8\u63a7\u5236\u5b58\u5728\u7684\u95ee\u9898\u53ca\u5bf9\u7b56\u63a2\u8ba8.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u674e\u6155\u82ac_2022_\u623f\u5730\u4ea7\u4f01\u4e1a\u5185\u90e8\u63a7\u5236\u5b58\u5728\u7684\u95ee\u9898\u53ca\u5bf9\u7b56\u63a2\u8ba8.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-30T14:56:55Z",
+          "dateModified": "2022-10-30T14:56:55Z",
+          "uri": "http://zotero.org/users/8201183/items/3Z3NXZI9",
+          "select": "zotero://select/library/items/3Z3NXZI9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "limufenFangDiChanQiYeNeiBuKongZhiCunZaiDeWenTiJiDuiCeTanTao2022",
+      "itemKey": "B25SA7D8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/B25SA7D8"
+    },
+    {
+      "key": "6SJYYKVN",
+      "version": 0,
+      "itemType": "webpage",
+      "title": "\u5b8b\u96ea\u6d9b\uff1a\u56db\u5b63\u5ea6\u7684\u4e3b\u8981\u4ea4\u6613\u903b\u8f91",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI0MzMzNzczNQ==&mid=2247502606&idx=1&sn=2a3b55c053948d9522fe23d819110c04&chksm=e96c1466de1b9d7018092a56aab614fee68ab569b83ca29b1e408ad404f3c4559f1e04e5e123#rd",
+      "accessDate": "2022-11-09T11:03:56Z",
+      "creators": [
+        {
+          "firstName": "\u5b8b\u96ea\u6d9b",
+          "lastName": "\u6797\u5f66",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-11-09T11:03:56Z",
+      "dateModified": "2022-11-09T11:03:56Z",
+      "uri": "http://zotero.org/users/8201183/items/6SJYYKVN",
+      "itemID": 882,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-11-09T11:04:11Z",
+          "dateModified": "2022-11-09T11:04:11Z",
+          "uri": "http://zotero.org/users/8201183/items/XEC339HY",
+          "path": "E:\\Zotero\\storage\\XEC339HY\\YsGLp9YcjgXOSPfA4AzHxw.html",
+          "select": "zotero://select/library/items/XEC339HY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "linyanSongXueTaoSiJiDuDeZhuYaoJiaoYiLuoJi",
+      "itemKey": "6SJYYKVN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6SJYYKVN",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "WGM5SHFI",
+      "version": 0,
+      "itemType": "webpage",
+      "title": "M0 M1 M2 M3\u57fa\u672c\u6982\u5ff5\u548c\u542b\u4e49\u8be6\u89e3",
+      "abstractNote": "\u56fd\u5185\u7f51\u7ad9\u548c \u767e\u5ea6\u767e\u79d1\u4e0a\u7684\u89e3\u91ca\u592a\u8fc7\u590d\u6742\uff0c\u4e5f\u4e0d\u51c6\u786e\uff0c\u56fd\u5185\u548c\u56fd\u9645\u4e0a\u5230\u5e95\u600e\u4e48\u5b9a\u4e49\u8d27\u5e01\u4f9b\u5e94\u91cfM0\u3001M1\u3001M2\u548cM3\uff1f\u4ed6\u4eec\u7684\u672c\u8d28\u5230\u5e95\u662f\u4ec0\u4e48\uff1f\u770b\u5b8c\u8fd9\u7bc7\u6587\u7ae0\uff0c\u53ef\u4ee5\u5e2e\u52a9\u4f60\u8f7b\u677e\u7684\u7406\u89e3\u548c\u8bb0\u5fc6\u7ecf\u6d4e\u5b66\u4e2d\u7684\u62bd\u8c61\u5b9a\u4e49\u3002 \u56fd\u9645\u4e0a\u5927\u81f4\u7684\u5212\u5206\u662f\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/32649054",
+      "accessDate": "2022-11-09T11:04:45Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-11-09T11:04:45Z",
+      "dateModified": "2022-11-09T11:04:45Z",
+      "uri": "http://zotero.org/users/8201183/items/WGM5SHFI",
+      "itemID": 886,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-11-09T11:04:57Z",
+          "dateModified": "2022-11-09T11:04:57Z",
+          "uri": "http://zotero.org/users/8201183/items/LEIBAXNP",
+          "path": "E:\\Zotero\\storage\\LEIBAXNP\\32649054.html",
+          "select": "zotero://select/library/items/LEIBAXNP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "M0M1M2",
+      "itemKey": "WGM5SHFI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WGM5SHFI",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "D6PX6T8Y",
+      "version": 773,
+      "itemType": "webpage",
+      "title": "Matplotlib \u53ef\u89c6\u5316\u4e4b\u7bad\u5934\u4e0e\u6807\u6ce8\u7684\u9ad8\u7ea7\u5e94\u7528 - \u817e\u8baf\u4e91\u5f00\u53d1\u8005\u793e\u533a-\u817e\u8baf\u4e91",
+      "url": "https://cloud.tencent.com/developer/article/1977030",
+      "accessDate": "2022-09-23T15:10:07Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-23T15:10:07Z",
+      "dateModified": "2022-09-23T15:10:07Z",
+      "uri": "http://zotero.org/users/8201183/items/D6PX6T8Y",
+      "itemID": 179,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Matplotlib \u53ef\u89c6\u5316\u4e4b\u7bad\u5934\u4e0e\u6807\u6ce8\u7684\u9ad8\u7ea7\u5e94\u7528 - \u817e\u8baf\u4e91\u5f00\u53d1\u8005\u793e\u533a-\u817e\u8baf\u4e91",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-23T15:10:23Z",
+          "dateModified": "2022-09-23T15:10:23Z",
+          "uri": "http://zotero.org/users/8201183/items/K5WH26FH",
+          "path": "E:\\Zotero\\storage\\K5WH26FH\\1977030.html",
+          "select": "zotero://select/library/items/K5WH26FH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "MatplotlibKeShiHuaZhiJianTouYuBiaoZhuDeGaoJiYingYongTengXunYunKaiFaZheSheQuTengXunYun",
+      "itemKey": "D6PX6T8Y",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/D6PX6T8Y"
+    },
+    {
+      "key": "WDFAYWYV",
+      "version": 794,
+      "itemType": "webpage",
+      "title": "backtrader\u5b9e\u73b0\u771f\u6b63\u7684\u591a\u80a1\u7ec4\u5408\u64cd\u4f5c\u7b56\u7565\uff0c\u770b\u8fd9\u4e00\u7bc7\u5c31\u591f\u4e86\uff0c\u7528\u5b9a\u65f6\u5668\u8fdb\u5165\u7b56\u7565\u903b\u8f91",
+      "abstractNote": "backtrader\u5b9e\u73b0\u771f\u6b63\u7684\u591a\u80a1\u7ec4\u5408\u64cd\u4f5c\u7b56\u7565\uff0c\u770b\u8fd9\u4e00\u7bc7\u5c31\u591f\u4e86\uff0c\u7528\u5b9a\u65f6\u5668\u8fdb\u5165\u7b56\u7565\u903b\u8f91 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\u300c\u626b\u5730\u50e7backtrader\u7ed9\u529b\u6559\u7a0b\u7cfb\u5217\u300d\uff0c\u4f5c\u8005: optMaster https://zhuanlan.zhihu.com/p/269443883",
+      "date": "2020/10/28 13:54:01",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/269443883",
+      "accessDate": "2022-10-02T12:59:17Z",
+      "extra": "\u8d5e\u6570:35;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "optMaster",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "\u91cf\u5316\u6295\u8d44\u7b56\u7565\uff08\u4e66\u7c4d\uff09",
+          "type": 1
+        },
+        {
+          "tag": "vn.py",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-02T12:59:17Z",
+      "dateModified": "2022-10-02T12:59:17Z",
+      "uri": "http://zotero.org/users/8201183/items/WDFAYWYV",
+      "itemID": 671,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T12:59:35Z",
+          "dateModified": "2022-10-02T12:59:35Z",
+          "uri": "http://zotero.org/users/8201183/items/4JHPVJGN",
+          "path": "E:\\Zotero\\storage\\4JHPVJGN\\269443883.html",
+          "select": "zotero://select/library/items/4JHPVJGN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "optmasterBacktraderShiXianZhenZhengDeDuoGuZuHeCaoZuoCeLueKanZheYiPianJiuGouLiaoYongDingShiQiJinRuCeLueLuoJi2020",
+      "itemKey": "WDFAYWYV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WDFAYWYV",
+      "publicationTitle": "\u626b\u5730\u50e7backtrader\u7ed9\u529b\u6559\u7a0b\u7cfb\u5217",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "J32DGB27",
+      "version": 773,
+      "itemType": "blogPost",
+      "title": "Pandas DataFrame \u5165\u95e8\u2014\u2014\u5982\u4f55\u52a0\u8f7d\u6570\u636e\uff1f - \u58a8\u5929\u8f6e",
+      "url": "https://www.modb.pro/db/432935",
+      "accessDate": "2022-09-24T14:35:59Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-24T14:35:59Z",
+      "dateModified": "2022-09-25T08:37:08Z",
+      "uri": "http://zotero.org/users/8201183/items/J32DGB27",
+      "itemID": 167,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Pandas DataFrame \u5165\u95e8\u2014\u2014\u5982\u4f55\u52a0\u8f7d\u6570\u636e\uff1f - \u58a8\u5929\u8f6e",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T14:36:18Z",
+          "dateModified": "2022-09-24T14:36:18Z",
+          "uri": "http://zotero.org/users/8201183/items/QJ5DRITY",
+          "path": "E:\\Zotero\\storage\\QJ5DRITY\\432935.html",
+          "select": "zotero://select/library/items/QJ5DRITY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PandasDataFrameRuMen",
+      "itemKey": "J32DGB27",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J32DGB27"
+    },
+    {
+      "key": "QP69W5NW",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "Week Ahead Economic Preview",
+      "date": "2022",
+      "language": "en",
+      "libraryCatalog": "Zotero",
+      "pages": "11",
+      "creators": [
+        {
+          "firstName": "Jingyi",
+          "lastName": "Pan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-11-13T02:06:37Z",
+      "dateModified": "2022-11-13T02:06:37Z",
+      "uri": "http://zotero.org/users/8201183/items/QP69W5NW",
+      "itemID": 889,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Pan_2022_Week Ahead Economic Preview.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\Pan_2022_Week Ahead Economic Preview.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:12:42Z",
+          "dateModified": "2022-12-03T17:12:42Z",
+          "uri": "http://zotero.org/users/8201183/items/MTZYHXYW",
+          "select": "zotero://select/library/items/MTZYHXYW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "panWeekAheadEconomic2022",
+      "itemKey": "QP69W5NW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QP69W5NW"
+    },
+    {
+      "key": "G8UG8V3W",
+      "version": 1213,
+      "itemType": "journalArticle",
+      "title": "\u8bba\u91d1\u878d\u6291\u5236\u4e0e\u91d1\u878d\u8f6c\u578b",
+      "date": "2013-01",
+      "pages": "69-72",
+      "publicationTitle": "\u63a2\u7d22\u4e0e\u4e89\u9e23",
+      "issue": "2",
+      "creators": [
+        {
+          "name": "\u6f58\u82f1\u4e3d",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "\u26d4 No DOI found",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T09:46:11Z",
+      "dateModified": "2022-10-14T09:46:15Z",
+      "uri": "http://zotero.org/users/8201183/items/G8UG8V3W",
+      "itemID": 816,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "panyingli2013",
+      "itemKey": "G8UG8V3W",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/G8UG8V3W"
+    },
+    {
+      "key": "XVXMHQYY",
+      "version": 773,
+      "itemType": "blogPost",
+      "title": "python+\u767e\u5ea6\u4e91api\u5199\u4e00\u4e2a\u6587\u5b57\u8bc6\u522b\u7a0b\u5e8f",
+      "abstractNote": "\u524d\u8a00 \u5929\u82e5ocr\u662f\u6211\u7528\u8fc7\u6700\u6ee1\u610f\u7684\u4e00\u4e2a\u6587\u5b57\u8bc6\u522b\u5de5\u5177\uff0c\u5b83\u6700\u6838\u5fc3\u7684\u529f\u80fd\u5c31\u662f\u805a\u5408\u4e86\u591a\u4e2aapi\u8bc6\u522b\u63a5\u53e3\u3002\u7ecf\u8fc7\u6211\u7684\u8bd5\u9a8c\uff0c\u6211\u53d1\u73b0\u767e\u5ea6\u4e91\u7684ocr\u662f\u51c6\u786e\u7387\u6700\u9ad8\u7684\uff0c\u800c\u4e14\u5b83\u7684\u514d\u8d39\u989d\u5ea6\u4e5f\u975e\u5e38\u591a\u3002\u901a\u7528\u6587\u5b57\u8bc6\u522b\u4e00\u5929\u53ef\u514d\u8d39\u8c03\u752850000\u6b21\uff0c\u9ad8\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/367561697",
+      "accessDate": "2022-09-19T10:20:37Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-19T10:20:37Z",
+      "dateModified": "2022-09-25T08:37:03Z",
+      "uri": "http://zotero.org/users/8201183/items/XVXMHQYY",
+      "itemID": 168,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-19T10:20:45Z",
+          "dateModified": "2022-09-19T10:20:45Z",
+          "uri": "http://zotero.org/users/8201183/items/4IG8IH27",
+          "path": "E:\\Zotero\\storage\\4IG8IH27\\367561697.html",
+          "select": "zotero://select/library/items/4IG8IH27"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PythonBaiDuYunapiXieYiGeWenZiShiBieChengXu",
+      "itemKey": "XVXMHQYY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XVXMHQYY",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "JQYHYZ2P",
+      "version": 773,
+      "itemType": "webpage",
+      "title": "python - \u5c06\u5355\u5143\u683c\u8bbe\u7f6e\u4e3a\u7b49\u4e8epandas\u4e2d\u7684\u503c - Thinbug",
+      "url": "https://www.thinbug.com/q/35342843",
+      "accessDate": "2022-09-26T04:45:31Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-26T04:45:31Z",
+      "dateModified": "2022-09-26T04:45:31Z",
+      "uri": "http://zotero.org/users/8201183/items/JQYHYZ2P",
+      "itemID": 161,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "python - \u5c06\u5355\u5143\u683c\u8bbe\u7f6e\u4e3a\u7b49\u4e8epandas\u4e2d\u7684\u503c - Thinbug",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-26T04:45:36Z",
+          "dateModified": "2022-09-26T04:45:36Z",
+          "uri": "http://zotero.org/users/8201183/items/YLIWUMBI",
+          "path": "E:\\Zotero\\storage\\YLIWUMBI\\35342843.html",
+          "select": "zotero://select/library/items/YLIWUMBI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PythonJiangDanYuanGeSheZhiWeiDengYupandasZhongDeZhiThinbug",
+      "itemKey": "JQYHYZ2P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JQYHYZ2P"
+    },
+    {
+      "key": "WM9LCFMQ",
+      "version": 813,
+      "itemType": "webpage",
+      "title": "backtrader\u5982\u4f55\u52a0\u8f7d\u80a1\u7968\u56e0\u5b50\u6570\u636e\uff1f\u4ee5\u6362\u624b\u7387\u3001\u5e02\u76c8\u7387\u4e3a\u4f8b\u8fdb\u884c\u56de\u6d4b\u3010\u9644Python\u4ee3\u7801\u3011",
+      "abstractNote": "backtrader\u5982\u4f55\u52a0\u8f7d\u80a1\u7968\u56e0\u5b50\u6570\u636e\uff1f\u4ee5\u6362\u624b\u7387\u3001\u5e02\u76c8\u7387\u4e3a\u4f8b\u8fdb\u884c\u56de\u6d4b\u3010\u9644Python\u4ee3\u7801\u3011 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\u300cPython\u91d1\u878d\u91cf\u5316\u300d\uff0c\u4f5c\u8005: Python\u91d1\u878d\u91cf\u5316 https://zhuanlan.zhihu.com/p/139056277",
+      "date": "2020/5/8 17:38:17",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/139056277",
+      "accessDate": "2022-10-02T14:20:37Z",
+      "extra": "\u8d5e\u6570:33;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Python\u91d1\u878d\u91cf\u5316",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "\u91cf\u5316",
+          "type": 1
+        },
+        {
+          "tag": "\u91cf\u5316\u7814\u7a76",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-02T14:20:37Z",
+      "dateModified": "2022-10-02T14:20:37Z",
+      "uri": "http://zotero.org/users/8201183/items/WM9LCFMQ",
+      "itemID": 682,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-02T14:20:52Z",
+          "dateModified": "2022-10-02T14:20:52Z",
+          "uri": "http://zotero.org/users/8201183/items/5HY6XXJP",
+          "path": "E:\\Zotero\\storage\\5HY6XXJP\\139056277.html",
+          "select": "zotero://select/library/items/5HY6XXJP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "pythonjinronglianghuaBacktraderRuHeJiaZaiGuPiaoYinZiShuJuYiHuanShouLuShiYingLuWeiLiJinXingHuiCe2020",
+      "itemKey": "WM9LCFMQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WM9LCFMQ",
+      "publicationTitle": "Python\u91d1\u878d\u91cf\u5316",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "N6MZPLUH",
+      "version": 773,
+      "itemType": "blogPost",
+      "title": "Python\u8ba1\u7b97\u80a1\u7968\u6295\u8d44\u7ec4\u5408\u7684\u98ce\u9669\u4ef7\u503c\uff08VaR\uff09 | \u62d3\u7aef\u6570\u636e\u79d1\u6280 / Welcome to tecdat",
+      "abstractNote": "\u98ce\u9669\u4ef7\u503c\uff08VaR\uff09\u7528\u4e8e\u5c1d\u8bd5\u91cf\u5316\u6307\u5b9a\u65f6\u95f4\u8303\u56f4\u5185\u516c\u53f8\u6216\u6295\u8d44\u7ec4\u5408\u4e2d\u7684\u8d22\u52a1\u98ce\u9669\u6c34\u5e73\u3002VaR\u63d0\u4f9b\u4e86\u4e00\u6bb5\u65f6\u95f4\u5185\u6295\u8d44\u7ec4\u5408\u7684\u6700\u5927\u635f\u5931\u7684\u4f30\u8ba1\uff0c\u60a8\u53ef\u4ee5\u5728\u5404\u79cd\u7f6e\u4fe1\u5ea6\u6c34\u5e73\u4e0a\u8fdb\u884c\u8ba1\u7b97\u3002",
+      "language": "zh-CN",
+      "url": "http://tecdat.cn/python%e8%ae%a1%e7%ae%97%e8%82%a1%e7%a5%a8%e6%8a%95%e8%b5%84%e7%bb%84%e5%90%88%e7%9a%84%e9%a3%8e%e9%99%a9%e4%bb%b7%e5%80%bc%ef%bc%88var%ef%bc%89/",
+      "accessDate": "2022-09-25T08:35:41Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T08:35:41Z",
+      "dateModified": "2022-09-25T08:35:41Z",
+      "uri": "http://zotero.org/users/8201183/items/N6MZPLUH",
+      "itemID": 171,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-25T08:35:50Z",
+          "dateModified": "2022-09-25T08:35:50Z",
+          "uri": "http://zotero.org/users/8201183/items/HK6YNKHP",
+          "path": "E:\\Zotero\\storage\\HK6YNKHP\\python\u8ba1\u7b97\u80a1\u7968\u6295\u8d44\u7ec4\u5408\u7684\u98ce\u9669\u4ef7\u503c\uff08var\uff09.html",
+          "select": "zotero://select/library/items/HK6YNKHP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PythonJiSuanGuPiaoTouZiZuHeDeFengXianJieZhiVaRTuoDuanShuJuKeJi",
+      "itemKey": "N6MZPLUH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/N6MZPLUH"
+    },
+    {
+      "key": "A4JC5G5W",
+      "version": 773,
+      "itemType": "blogPost",
+      "title": "python-scrapy\u6a21\u62df\u767b\u9646\u7f51\u7ad9--\u767b\u9646\u9752\u679c\u6559\u52a1\u7ba1\u7406\u7cfb\u7edf\uff08\u4e8c\uff09-\u84b2\u516c\u82f1\u4e91",
+      "url": "https://dandelioncloud.cn/article/details/1529773104285106177",
+      "accessDate": "2022-09-20T03:57:49Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-20T03:57:49Z",
+      "dateModified": "2022-09-25T08:36:57Z",
+      "uri": "http://zotero.org/users/8201183/items/A4JC5G5W",
+      "itemID": 169,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "python-scrapy\u6a21\u62df\u767b\u9646\u7f51\u7ad9--\u767b\u9646\u9752\u679c\u6559\u52a1\u7ba1\u7406\u7cfb\u7edf\uff08\u4e8c\uff09-\u84b2\u516c\u82f1\u4e91",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-20T04:09:40Z",
+          "dateModified": "2022-09-20T04:09:40Z",
+          "uri": "http://zotero.org/users/8201183/items/4M4IJF3P",
+          "path": "E:\\Zotero\\storage\\4M4IJF3P\\1529773104285106177.html",
+          "select": "zotero://select/library/items/4M4IJF3P"
+        }
+      ],
+      "notes": [],
+      "citationKey": "PythonscrapyMoNiDengLuWangZhanDengLuQingGuoJiaoWuGuanLiXiTongEr",
+      "itemKey": "A4JC5G5W",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/A4JC5G5W"
+    },
+    {
+      "key": "RQIS5L6B",
+      "version": 821,
+      "itemType": "webpage",
+      "title": "Backtrader\u6765\u5566\uff1a\u5e38\u89c1\u6848\u4f8b\u6c47\u603b",
+      "abstractNote": "\u53ea\u770bQIML~",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653330626&idx=1&sn=83bed9723d81cd6b636f3efff43db926&chksm=802d5ed7b75ad7c19927c4fce4d5da4aa39d87bf9e519f1c5e64ee4aae82cdbb55c7e5ef5c65#rd",
+      "accessDate": "2022-10-03T17:39:43Z",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "QIML\u7f16\u8f91\u90e8",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-03T17:39:43Z",
+      "dateModified": "2022-10-03T17:39:43Z",
+      "uri": "http://zotero.org/users/8201183/items/RQIS5L6B",
+      "itemID": 689,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T17:39:54Z",
+          "dateModified": "2022-10-03T17:39:54Z",
+          "uri": "http://zotero.org/users/8201183/items/EEBY79J9",
+          "path": "E:\\Zotero\\storage\\EEBY79J9\\ydiVbvRBL1__DY3TRxtvcw.html",
+          "select": "zotero://select/library/items/EEBY79J9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "qimlbianjibuBacktraderLaiLaChangJianAnLiHuiZong",
+      "itemKey": "RQIS5L6B",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RQIS5L6B",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "KD2Y74WL",
+      "version": 819,
+      "itemType": "webpage",
+      "title": "Backtrader\u6765\u5566\uff1a\u53ef\u89c6\u5316\u7bc7\uff08\u91cd\u6784\uff09",
+      "abstractNote": "\u514d\u8d39\u91cc\u9762\u6700\u597d\u7684\uff0c\u53ea\u770bQIML~",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653317947&idx=1&sn=8422b62036c4a0693114f6b779fb9cde&chksm=802da92eb75a20380ed04560bf2ed947d7879d5f0f806b094dccc30cc8de83e269c73c375931#rd",
+      "accessDate": "2022-10-03T17:39:23Z",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u5168\u7f51Quant\u90fd\u5728\u770b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-03T17:39:23Z",
+      "dateModified": "2022-10-03T17:39:23Z",
+      "uri": "http://zotero.org/users/8201183/items/KD2Y74WL",
+      "itemID": 687,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T17:39:32Z",
+          "dateModified": "2022-10-03T17:39:32Z",
+          "uri": "http://zotero.org/users/8201183/items/JMABH8PL",
+          "path": "E:\\Zotero\\storage\\JMABH8PL\\WA7Dgr_kcZz-WhriHkf4AQ.html",
+          "select": "zotero://select/library/items/JMABH8PL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "quanwangquantduzaikanBacktraderLaiLaKeShiHuaPianChongGou",
+      "itemKey": "KD2Y74WL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KD2Y74WL",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "J6MGAS55",
+      "version": 829,
+      "itemType": "webpage",
+      "title": "Backtrader\u6765\u5566\uff1a\u6570\u636e\u7bc7",
+      "abstractNote": "\u53ea\u770bQIML~",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653315933&idx=1&sn=0b3e71d4bf59da67d837907e05aef8cb&chksm=802da148b75a285e3aa180a23132873646bf356191befc88831639146c68027ae4ab740a5e18#rd",
+      "accessDate": "2022-10-04T04:21:18Z",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u5168\u7f51Quant\u90fd\u5728\u770b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-04T04:21:18Z",
+      "dateModified": "2022-10-04T04:21:18Z",
+      "uri": "http://zotero.org/users/8201183/items/J6MGAS55",
+      "itemID": 693,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-04T04:21:26Z",
+          "dateModified": "2022-10-04T04:21:26Z",
+          "uri": "http://zotero.org/users/8201183/items/RFZXKH63",
+          "path": "E:\\Zotero\\storage\\RFZXKH63\\s.html",
+          "select": "zotero://select/library/items/RFZXKH63"
+        }
+      ],
+      "notes": [],
+      "citationKey": "quanwangquantduzaikanBacktraderLaiLaShuJuPian",
+      "itemKey": "J6MGAS55",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J6MGAS55",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "UVY453MV",
+      "version": 826,
+      "itemType": "webpage",
+      "title": "Backtrader \u6765\u4e86\uff01",
+      "abstractNote": "\u53ea\u770bQIML~",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653315531&idx=1&sn=f003da3d862e1a13349a10e006c5e748&chksm=802da3deb75a2ac85f3c3a6164f96303b70c12d14293f59fddf9a38c39a89bf4927b90b9e9c6#rd",
+      "accessDate": "2022-10-03T17:40:17Z",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u5168\u7f51Quant\u90fd\u5728\u770b",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-03T17:40:17Z",
+      "dateModified": "2022-10-03T17:40:17Z",
+      "uri": "http://zotero.org/users/8201183/items/UVY453MV",
+      "itemID": 691,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-03T17:40:26Z",
+          "dateModified": "2022-10-03T17:40:26Z",
+          "uri": "http://zotero.org/users/8201183/items/ZI2PE3L7",
+          "path": "E:\\Zotero\\storage\\ZI2PE3L7\\7S4AnbUfQy2kCZhuFN1dZw.html",
+          "select": "zotero://select/library/items/ZI2PE3L7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "quanwangquantduzaikanBacktraderLaiLiao",
+      "itemKey": "UVY453MV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UVY453MV",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "5YR73PDF",
+      "version": 724,
+      "itemType": "thesis",
+      "title": "\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e\u7684\u5f00\u53d1\u4e0e\u6a21\u578b\u8bd5\u9a8c",
+      "abstractNote": "\u5f00\u53d1\u6d77\u6d0b\u80fd\u6e90\u662f\u7f13\u89e3\u5316\u77f3\u71c3\u6599\u80fd\u6e90\u5371\u673a\u7684\u6709\u6548\u9014\u5f84\u3002\u6ce2\u6d6a\u80fd\u4f5c\u4e3a\u6d77\u6d0b\u80fd\u6e90\u5f00\u53d1\u7684\u91cd\u8981\u5206\u652f,\u5bf9\u6ce2\u6d6a\u80fd\u53d1\u7535\u6280\u672f\u7814\u7a76\u7684\u6295\u5165\u5bf9\u4fdd\u6301\u56fd\u6c11\u7ecf\u6d4e\u53ef\u6301\u7eed\u53d1\u5c55\u5177\u6709\u6df1\u8fdc\u610f\u4e49\u3002\u672c\u6587\u8003\u5bdf\u4e86\u73b0\u6709\u6ce2\u6d6a\u80fd\u88c5\u7f6e\u7684\u79cd\u7c7b\u548c\u4f18\u7f3a\u70b9,\u63d0\u51fa\u4e86\u7efc\u5408\u5438\u6536\u6ce2\u6d6a\u7eb5\u8361\u80fd\u91cf\u548c\u5782\u8361\u80fd\u91cf\u7684\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e,\u901a\u8fc7SolidWorks\u8f6f\u4ef6\u5efa\u7acb\u8bd5\u9a8c\u6a21\u578b,\u5728\u8bd5\u9a8c\u6c34\u6c60\u5229\u7528\u89c4\u5219\u6ce2\u548c\u4e0d\u89c4\u5219\u6ce2\u6d4b\u91cf\u4e86\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u5706\u67f1\u7684\u8fd0\u52a8\u6027\u80fd\u548c\u80fd\u91cf\u8f93\u51fa\u6027\u80fd\u3002\u901a\u8fc7\u6539\u53d8\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u5706\u67f1\u7684PTO\u963b\u5c3c,\u89c4\u5219\u6ce2\u8bd5\u9a8c\u7ed3\u679c\u7ed9\u51fa\u4e86\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u5706\u67f1\u5728\u4e09\u79cdPTO\u963b\u5c3c\u4e0b\u7684\u5e73\u5747\u8f93\u51fa\u529f\u7387,\u8bd5\u9a8c\u6570\u636e\u663e\u793a\u5438\u6ce2\u88c5\u7f6e\u5728\u9ad8\u9891\u4f4e\u80fd\u6ce2\u6d6a\u4e0b\u9002\u5408\u91c7\u7528\u4f4e\u963b\u5c3c,\u5728\u4f4e\u9891\u9ad8\u80fd\u6ce2\u6d6a\u4e0b\u9002\u5408\u91c7\u7528\u9ad8\u963b\u5c3c\u3002\u4e0d\u89c4\u5219\u6ce2\u8bd5\u9a8c\u4e2d\u5f97\u5230\u4e86\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u5706\u67f1\u7684\u5438\u6ce2\u80fd\u91cf\u548c\u5404\u79cd\u9891\u7387\u6ce2\u6d6a\u80fd\u91cf\u7684\u5173\u7cfb,\u8bd5\u9a8c\u7ed3\u679c\u8868\u660e\u5438\u6ce2\u6d6e\u5b50\u5177\u6709\u8f83\u5bbd\u7684\u9891\u7387\u54cd\u5e94\u8303\u56f4,\u5438\u6ce2\u5706\u67f1\u5bf9\u4e8e\u4f4e\u9891\u6ce2\u6d6a\u80fd\u91cf\u7684\u5438\u6536\u4f18\u4e8e\u9ad8\u9891\u6ce2\u6d6a\u3002\u5efa\u7acb\u4e86\u5782\u8361\u6d6e\u5b50\u7ebf\u6027\u8fd0\u52a8\u5fae\u5206\u65b9\u7a0b,\u5bf9\u6d6e\u5b50\u7684\u5782\u8361\u8fd0\u52a8\u8fdb\u884c\u4e86\u6570\u503c\u8ba1\u7b97\u5f97\u5230\u4e86\u5782\u8361\u6d6e\u5b50\u5728\u89c4\u5219\u6ce2\u4e2d\u7684\u5e73\u5747\u8f93\u51fa\u529f\u7387,\u4e0e\u8bd5\u9a8c\u4e2d\u5438\u6ce2\u6d6e\u5b50\u4ec5\u5782\u8361\u8fd0\u52a8\u5f97\u5230\u7684\u8bd5\u9a8c\u6570\u636e\u76f8\u6bd4\u8f83,\u5f97\u5230\u4e86\u826f\u597d\u7684\u6570\u503c\u6a21\u62df\u7cbe\u5ea6\u3002\u57fa\u4e8eAR\u6781\u77ed\u671f\u9884\u62a5\u6cd5,\u4ee5AVR\u5355\u7247\u673a\u4f5c\u4e3a\u63a7\u5236\u5668\u5236\u4f5c\u4e86\u5d4c\u5165\u5f0f\u7cfb\u7edf,\u4f7f\u7528\u8be5\u7cfb\u7edf\u9884\u62a5\u5438\u6ce2\u6d6e\u5b50\u672a\u67652s\u5185\u7684\u906d\u9047\u9891\u7387,\u5e76\u63d0\u524d\u6539\u53d8\u9002\u5408\u5438\u6ce2\u6d6e\u5b50\u7684PTO\u963b\u5c3c,\u5728\u4e0d\u89c4\u5219\u6ce2\u4e2d\u9a8c\u8bc1\u8be5\u65b9\u6cd5\u53ef\u4ee5\u63d0\u9ad8\u5438\u6ce2\u6d6e\u5b50\u80fd\u91cf\u8f93\u51fa\u76844%\u3002\u6839\u636e\u6a21\u578b\u8bd5\u9a8c\u7ed3\u679c,\u9488\u5bf9\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e\u7684\u5b9e\u9645\u5e94\u7528,\u4ece\u5236\u9020\u3001\u6295\u653e\u3001\u5b89\u88c5\u3001\u4f5c\u4e1a\u548c\u7ef4\u62a4\u7b49\u65b9\u9762\u8003\u8651,\u8fdb\u884c\u4e86\u88c5\u7f6e\u7684\u5b9e\u578b\u521d\u6b65\u8bbe\u8ba1\u3002\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e\u5b9e\u578b\u53ef\u5229\u7528\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u7acb\u67f1\u5728\u968f\u6ce2\u6d6a\u8fd0\u52a8\u65f6\u4ea7\u751f\u7684\u673a\u68b0\u80fd\u901a\u8fc7\u6db2\u538b\u88c5\u7f6e\u53d1\u7535,\u88c5\u7f6e\u8fd0\u52a8\u5f62\u5f0f\u7b80\u5355,\u4e24\u90e8\u5206\u80fd\u91cf\u8f93\u51fa\u76f8\u4e92\u72ec\u7acb,\u53d1\u7535\u65b9\u5f0f\u53ef\u9760\u3002\u5438\u6ce2\u6d6e\u5b50\u548c\u5438\u6ce2\u7acb\u67f1\u5206\u522b\u4e3b\u8981\u5438\u6536\u6ce2\u6d6a\u7684\u52bf\u80fd\u548c\u52a8\u80fd,\u4e24\u90e8\u5206\u5438\u6ce2\u88c5\u7f6e\u76f8\u7ed3\u5408\u53ef\u63d0\u9ad8\u88c5\u7f6e\u7684\u9891\u7387\u54cd\u5e94\u8303\u56f4,\u53ef\u589e\u52a0\u88c5\u7f6e\u7684\u53d1\u7535\u6548\u7387\u3002\u57fa\u5ea7\u8239\u7684\u8bbe\u8ba1\u4fbf\u4e8e\u88c5\u7f6e\u7684\u5b89\u88c5\u53ca\u6295\u653e,\u63d0\u9ad8\u4e86\u88c5\u7f6e\u7684\u673a\u52a8\u6027\u548c\u7075\u6d3b\u6027,\u964d\u4f4e\u4e86\u7ef4\u62a4\u6210\u672c\u3002\u57fa\u5ea7\u8239\u901a\u8fc7\u951a\u94fe\u56fa\u5b9a\u5728\u6d77\u5e95,\u53ef\u968f\u6f6e\u4f4d\u53d8\u5316\u800c\u5347\u964d,\u589e\u52a0\u4e86\u88c5\u7f6e\u7684\u73af\u5883\u9002\u5e94\u6027,\u540c\u65f6\u589e\u52a0\u4e86\u88c5\u7f6e\u7684\u53d1\u7535\u6548\u7387\u3002\u5438\u6ce2\u6d6e\u5b50\u4e0e\u5438\u6ce2\u7acb\u67f1\u76f8\u4e92\u5957\u8fde,\u5438\u6ce2\u7acb\u67f1\u5e95\u7aef\u4e0e\u57fa\u5ea7\u8239\u94f0\u63a5\u8fde\u63a5,\u5e76\u53ef\u503e\u659c\u5e73\u9760\u5728\u57fa\u5ea7\u8239\u7684\u9760\u80cc\u4e0a,\u63d0\u9ad8\u4e86\u88c5\u7f6e\u5728\u6076\u52a3\u73af\u5883\u4e0b\u7684\u751f\u5b58\u80fd\u529b\u3002",
+      "date": "2015",
+      "language": "\u4e2d\u6587;",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201801&filename=1018050762.nh&v=",
+      "extra": "4 citations(CNKI)[2022-9-17]",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u66f2\u6cbb\u56fd",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "",
+          "lastName": "\u9a6c\u5e86\u4f4d",
+          "creatorType": "contributor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e",
+          "type": 1
+        },
+        {
+          "tag": "\u5438\u6ce2\u6d6e\u5b50",
+          "type": 1
+        },
+        {
+          "tag": "\u5438\u6ce2\u5706\u67f1",
+          "type": 1
+        },
+        {
+          "tag": "AR short term prediction",
+          "type": 1
+        },
+        {
+          "tag": "AR\u9884\u62a5\u6cd5 Mushroom wave energy converter",
+          "type": 1
+        },
+        {
+          "tag": "PTO damping",
+          "type": 1
+        },
+        {
+          "tag": "PTO\u963b\u5c3c",
+          "type": 1
+        },
+        {
+          "tag": "wave absorbed column",
+          "type": 1
+        },
+        {
+          "tag": "wave-absorbed buoy",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-17T09:13:48Z",
+      "dateModified": "2022-09-17T09:13:49Z",
+      "uri": "http://zotero.org/users/8201183/items/5YR73PDF",
+      "itemID": 188,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u66f2\u6cbb\u56fd_2015_\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e\u7684\u5f00\u53d1\u4e0e\u6a21\u578b\u8bd5\u9a8c.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u66f2\u6cbb\u56fd_2015_\u6d77\u8611\u83c7\u5f0f\u6ce2\u6d6a\u80fd\u53d1\u7535\u88c5\u7f6e\u7684\u5f00\u53d1\u4e0e\u6a21\u578b\u8bd5\u9a8c.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:09Z",
+          "dateModified": "2022-12-03T17:13:27Z",
+          "uri": "http://zotero.org/users/8201183/items/ZNTPFNUQ",
+          "select": "zotero://select/library/items/ZNTPFNUQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "quzhiguo2015haimogushibolangnengfadianzhuangzhidekaifayumoxingshiyan",
+      "itemKey": "5YR73PDF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5YR73PDF",
+      "publisher": "\u54c8\u5c14\u6ee8\u5de5\u7a0b\u5927\u5b66",
+      "type": "\u7855\u58eb"
+    },
+    {
+      "key": "U895V6XE",
+      "version": 1021,
+      "itemType": "webpage",
+      "title": "\u671f\u8d27\u5165\u95e8-\u57fa\u5dee\u548c\u6301\u6709\u6536\u76ca\u7387",
+      "abstractNote": "\u671f\u8d27\u5165\u95e8-\u57fa\u5dee\u548c\u6301\u6709\u6536\u76ca\u7387 - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\uff0c\u4f5c\u8005: \u4eba\u95f4\u4e0d\u503c\u5f97 https://zhuanlan.zhihu.com/p/60483674",
+      "date": "2019/3/27 11:26:35",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/60483674",
+      "accessDate": "2022-10-08T09:31:28Z",
+      "extra": "\u8d5e\u6570:9;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u4eba\u95f4\u4e0d\u503c\u5f97",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u57fa\u5dee",
+          "type": 1
+        },
+        {
+          "tag": "\u5546\u54c1\u671f\u8d27",
+          "type": 1
+        },
+        {
+          "tag": "\u73b0\u8d27",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-08T09:31:28Z",
+      "dateModified": "2022-10-08T09:31:28Z",
+      "uri": "http://zotero.org/users/8201183/items/U895V6XE",
+      "itemID": 747,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-08T09:31:42Z",
+          "dateModified": "2022-10-08T09:31:42Z",
+          "uri": "http://zotero.org/users/8201183/items/6F8YB5TM",
+          "path": "E:\\Zotero\\storage\\6F8YB5TM\\60483674.html",
+          "select": "zotero://select/library/items/6F8YB5TM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "renjianbuzhideQiHuoRuMenJiChaiHeChiYouShouYiLu2019",
+      "itemKey": "U895V6XE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/U895V6XE",
+      "publicationTitle": "\u56de\u7b54",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "MX5LE7HM",
+      "version": 771,
+      "itemType": "webpage",
+      "title": "\u795e\u5947\u7684\u9093\u5df4\u6570\u5b57\u2014\u2014150\u5b9a\u5f8b\uff08Rule Of 150\uff09",
+      "url": "https://baijiahao.baidu.com/s?id=1675255417499564873&wfr=spider&for=pc",
+      "accessDate": "2022-09-22T13:39:12Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-22T13:39:12Z",
+      "dateModified": "2022-09-22T13:39:12Z",
+      "uri": "http://zotero.org/users/8201183/items/MX5LE7HM",
+      "itemID": 183,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u795e\u5947\u7684\u9093\u5df4\u6570\u5b57\u2014\u2014150\u5b9a\u5f8b\uff08Rule Of 150\uff09",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-22T13:39:19Z",
+          "dateModified": "2022-09-22T13:39:19Z",
+          "uri": "http://zotero.org/users/8201183/items/S37AC3N7",
+          "path": "E:\\Zotero\\storage\\S37AC3N7\\s.html",
+          "select": "zotero://select/library/items/S37AC3N7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ShenQiDeDengBaShuZi150DingLuRule",
+      "itemKey": "MX5LE7HM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MX5LE7HM"
+    },
+    {
+      "key": "TQMQWSS3",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u4f4f\u5b85\u4ef7\u683c\u4e0e\u7ecf\u6d4e\u57fa\u672c\u9762:1995-2002\u5e74\u4e2d\u56fd14\u57ce\u5e02\u7684\u5b9e\u8bc1\u7814\u7a76",
+      "date": "2004-01",
+      "volume": "39",
+      "pages": "78-86",
+      "publicationTitle": "\u7ecf\u6d4e\u7814\u7a76",
+      "issue": "6",
+      "creators": [
+        {
+          "name": "\u6c88\u60a6",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u5218\u6d2a\u7389",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:07Z",
+      "dateModified": "2022-10-30T15:04:07Z",
+      "uri": "http://zotero.org/users/8201183/items/TQMQWSS3",
+      "itemID": 878,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "shenyueZhuZhaiJieGeYuJingJiJiBenMian19952002NianZhongGuo14ChengShiDeShiZhengYanJiu2004",
+      "itemKey": "TQMQWSS3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TQMQWSS3"
+    },
+    {
+      "key": "JK5TPAYT",
+      "version": 1246,
+      "itemType": "document",
+      "title": "\u4e8b\u4ef6\u9a71\u52a8\u6295\u8d44\u7b56\u7565\u53ca\u5176\u5f71\u54cd\u56e0\u7d20\u7684\u5b9e\u8bc1\u7814\u7a76_\u6768\u9633.pdf",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:36:01Z",
+      "dateModified": "2022-10-14T16:36:04Z",
+      "uri": "http://zotero.org/users/8201183/items/JK5TPAYT",
+      "itemID": 852,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u4e8b\u4ef6\u9a71\u52a8\u6295\u8d44\u7b56\u7565\u53ca\u5176\u5f71\u54cd\u56e0\u7d20\u7684\u5b9e\u8bc1\u7814\u7a76_\u6768\u9633.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u4e8b\u4ef6\u9a71\u52a8\u6295\u8d44\u7b56\u7565\u53ca\u5176\u5f71\u54cd\u56e0\u7d20\u7684\u5b9e\u8bc1\u7814\u7a76_\u6768\u9633.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:12:54Z",
+          "dateModified": "2022-12-03T17:12:54Z",
+          "uri": "http://zotero.org/users/8201183/items/LRCV6CRU",
+          "select": "zotero://select/library/items/LRCV6CRU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ShiJianQuDongTouZiCeLueJiQiYingXiangYinSuDeShiZhengYanJiuYangYangPdf",
+      "itemKey": "JK5TPAYT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JK5TPAYT"
+    },
+    {
+      "key": "6UHX8KRE",
+      "version": 1246,
+      "itemType": "document",
+      "title": "\u4e8b\u4ef6\u9a71\u52a8\u578b\u8bc1\u5238\u6295\u8d44\u57fa\u91d1\u6295\u8d44\u7b56\u7565\u4e0e\u6536\u76ca\u7279\u5f81\u5206\u6790_\u6768\u7434.pdf",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:35:59Z",
+      "dateModified": "2022-10-14T16:36:01Z",
+      "uri": "http://zotero.org/users/8201183/items/6UHX8KRE",
+      "itemID": 851,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u4e8b\u4ef6\u9a71\u52a8\u578b\u8bc1\u5238\u6295\u8d44\u57fa\u91d1\u6295\u8d44\u7b56\u7565\u4e0e\u6536\u76ca\u7279\u5f81\u5206\u6790_\u6768\u7434.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u4e8b\u4ef6\u9a71\u52a8\u578b\u8bc1\u5238\u6295\u8d44\u57fa\u91d1\u6295\u8d44\u7b56\u7565\u4e0e\u6536\u76ca\u7279\u5f81\u5206\u6790_\u6768\u7434.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:12:58Z",
+          "dateModified": "2022-12-03T17:12:58Z",
+          "uri": "http://zotero.org/users/8201183/items/ZXYU8F5R",
+          "select": "zotero://select/library/items/ZXYU8F5R"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ShiJianQuDongXingZhengQuanTouZiJiJinTouZiCeLueYuShouYiTeZhengFenXiYangQinPdf",
+      "itemKey": "6UHX8KRE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6UHX8KRE"
+    },
+    {
+      "key": "MQKT577G",
+      "version": 773,
+      "itemType": "blogPost",
+      "title": "Python \u83b7\u53d6\u671f\u8d27\u5386\u53f2 k \u7ebf\u6570\u636e",
+      "abstractNote": "Python \u83b7\u53d6\u671f\u8d27\u5386\u53f2 k \u7ebf\u6570\u636e - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\uff0c\u4f5c\u8005: \u987a\u624b\u7275\u7f8a https://zhuanlan.zhihu.com/p/366997234",
+      "date": "2021/4/22 17:34:39",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/366997234",
+      "accessDate": "2022-09-24T16:06:02Z",
+      "extra": "\u8d5e\u6570:27;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u987a\u624b\u7275\u7f8a",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u80a1\u7968",
+          "type": 1
+        },
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "\u671f\u8d27",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-24T16:06:02Z",
+      "dateModified": "2022-09-25T08:36:50Z",
+      "uri": "http://zotero.org/users/8201183/items/MQKT577G",
+      "itemID": 170,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-24T16:06:27Z",
+          "dateModified": "2022-09-24T16:06:27Z",
+          "uri": "http://zotero.org/users/8201183/items/5J5XFWA6",
+          "path": "E:\\Zotero\\storage\\5J5XFWA6\\366997234.html",
+          "select": "zotero://select/library/items/5J5XFWA6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "shunshouqianyangPythonHuoQuQiHuoLiShiXianShuJu2021",
+      "itemKey": "MQKT577G",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MQKT577G",
+      "publicationTitle": "\u56de\u7b54",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "Y8QALIF3",
+      "version": 1215,
+      "itemType": "journalArticle",
+      "title": "\u897f\u65b9\u8d44\u672c\u5f62\u6210\u7406\u8bba\u8ff0\u8bc4",
+      "date": "2006-01",
+      "pages": "45-46",
+      "publicationTitle": "\u73b0\u4ee3\u7ba1\u7406\u79d1\u5b66",
+      "issue": "12",
+      "creators": [
+        {
+          "name": "\u5b8b\u52c3",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u9648\u6d77\u535a",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "\u26d4 No DOI found",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T10:06:25Z",
+      "dateModified": "2022-10-14T10:06:28Z",
+      "uri": "http://zotero.org/users/8201183/items/Y8QALIF3",
+      "itemID": 819,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "songbo2006",
+      "itemKey": "Y8QALIF3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Y8QALIF3"
+    },
+    {
+      "key": "QXYXBYGE",
+      "version": 997,
+      "itemType": "document",
+      "title": "Strategy Research In-depth research 20220926",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-08T08:41:08Z",
+      "dateModified": "2022-10-08T08:41:39Z",
+      "uri": "http://zotero.org/users/8201183/items/QXYXBYGE",
+      "itemID": 741,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Strategy Research In-depth research 20220926.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\Strategy Research In-depth research 20220926.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:35Z",
+          "dateModified": "2022-12-03T17:13:18Z",
+          "uri": "http://zotero.org/users/8201183/items/HH3LRMQA",
+          "select": "zotero://select/library/items/HH3LRMQA"
+        }
+      ],
+      "notes": [
+        {
+          "key": "CBSZ68XX",
+          "version": 996,
+          "itemType": "note",
+          "parentItem": "QXYXBYGE",
+          "note": "<div data-schema-version=\"8\"><h1>Strategy Research In-depth research 20220926</h1>\n<h3>Strategy Research In-depth research 20220926.pdf</h3>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22MGJR29V3%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B60.504%2C645.433%2C227.888%2C655.4%5D%5D%7D%7D\">\u201cthe foundation for industrialization was laid\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%2282AZ93NG%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B313.51%2C621.436%2C391.729%2C631.399%5D%2C%5B60.504%2C609.436%2C212.21%2C619.399%5D%5D%7D%7D\">\u201cwhere people pursue stability, illustrated by high savings rates.\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22AKSWHVZC%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B376.172%2C597.436%2C391.589%2C607.399%5D%2C%5B60.504%2C585.436%2C115.26%2C595.399%5D%5D%7D%7D\">\u201cland price dynamics\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22JG2E99DX%22%2C%22color%22%3A%22%23ff6666%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B231.551%2C565.603%2C283.574%2C575.64%5D%5D%7D%7D\">\u201cPlaza Accord\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22HAUQK6JV%22%2C%22color%22%3A%22%23ff6666%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B274.958%2C553.606%2C312.83%2C563.569%5D%5D%7D%7D\">\u201cintensified\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22MRCVN9UG%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B179.54%2C529.606%2C391.72%2C539.569%5D%2C%5B60.504%2C517.606%2C297.188%2C527.569%5D%5D%7D%7D\">\u201cThe appreciation of Japanese Yen and the depreciation of US Dollar became the beginning of Japan's bubble economy.\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22QSYBZUFZ%22%2C%22color%22%3A%22%23ff6666%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B336.19%2C413.806%2C391.852%2C423.769%5D%2C%5B60.504%2C401.806%2C166.44%2C411.769%5D%5D%7D%7D\">\u201cThe failure of monetary and fiscal policies\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22ZU86YI6B%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B227.777%2C237.986%2C306.029%2C247.949%5D%5D%7D%7D\">\u201cthe spillover effect of\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22JMH92QW4%22%2C%22color%22%3A%22%23a28ae5%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B366.79%2C134.156%2C391.666%2C144.119%5D%2C%5B60.504%2C122.156%2C155.63%2C132.119%5D%5D%7D%7D\">\u201cremain sluggish for a long time.\u201d</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F8201183%2Fitems%2FIKUPITIA%22%2C%22annotationKey%22%3A%22LVY68RRU%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B173.66%2C122.156%2C391.66%2C132.119%5D%2C%5B60.504%2C110.156%2C377.2%2C120.119%5D%5D%7D%7D\">\u201cTechnology: Global industrial transformation benefits, we suggest investors to pay attention to relevant domestic emerging technology companies.\u201d</span> \u6307\u7684\u662f\u5b81\u5fb7\u65f6\u4ee3\u3001\u6bd4\u4e9a\u8fea\u7b49\u7535\u6c60\u7684\u9f99\u5934\u4f01\u4e1a\u5427\u3002</p>\n</div>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-10-08T08:01:23Z",
+          "dateModified": "2022-10-08T08:41:26Z",
+          "uri": "http://zotero.org/users/8201183/items/CBSZ68XX"
+        }
+      ],
+      "citationKey": "strategy",
+      "itemKey": "QXYXBYGE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QXYXBYGE"
+    },
+    {
+      "key": "8TM8QEKI",
+      "version": 1213,
+      "itemType": "journalArticle",
+      "title": "\u91d1\u878d\u6291\u5236\u4e0e\u6d88\u8d39\u9700\u6c42",
+      "date": "2003-01",
+      "pages": "84-85",
+      "publicationTitle": "\u5546\u4e1a\u7814\u7a76",
+      "issue": "12",
+      "creators": [
+        {
+          "name": "\u5b59\u5bb6\u826f",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "\u26d4 No DOI found",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T09:46:11Z",
+      "dateModified": "2022-10-14T09:46:16Z",
+      "uri": "http://zotero.org/users/8201183/items/8TM8QEKI",
+      "itemID": 817,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "sunjialiang2003",
+      "itemKey": "8TM8QEKI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8TM8QEKI"
+    },
+    {
+      "key": "VZSMEFMI",
+      "version": 1231,
+      "itemType": "webpage",
+      "title": "\u4fe1\u8d37\u4f1a\u518d\u6b21\u51b2\u9ad8\u56de\u843d\u5417\uff08\u5929\u98ce\u5b8f\u89c2\u5b8b\u96ea\u6d9b\uff09",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI0MzMzNzczNQ==&mid=2247502376&idx=1&sn=701ecf6e401978507fec7389dfe17d95&chksm=e96c1540de1b9c56c18b61bbfd4e4ff2cef708fbf16524ce29d20d5bcb4baf2f3cd98ea8b34d#rd",
+      "accessDate": "2022-10-14",
+      "creators": [
+        {
+          "name": "\u5b59\u6c38\u4e50\u00a0\u5b8b\u96ea\u6d9b",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u96ea\u6d9b\u5b8f\u89c2\u7b14\u8bb0",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:23:36Z",
+      "dateModified": "2022-10-14T16:24:05Z",
+      "uri": "http://zotero.org/users/8201183/items/VZSMEFMI",
+      "itemID": 823,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-14T16:23:55Z",
+          "dateModified": "2022-10-14T16:23:55Z",
+          "uri": "http://zotero.org/users/8201183/items/A6ZWJ34M",
+          "path": "E:\\Zotero\\storage\\A6ZWJ34M\\CtbzFG7rsNgMUixeKtHUQw.html",
+          "select": "zotero://select/library/items/A6ZWJ34M"
+        }
+      ],
+      "notes": [],
+      "citationKey": "sunyonglesongxuetao",
+      "itemKey": "VZSMEFMI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VZSMEFMI",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "KXECEM7B",
+      "version": 775,
+      "itemType": "webpage",
+      "title": "\u3010Python\u641e\u91cf\u5316\u3011pandas_datareader \u7ecf\u6d4e\u548c\u91d1\u878d\u6570\u636e\u8bfb\u53d6API\u4ecb\u7ecd",
+      "abstractNote": "\u3010Python\u641e\u91cf\u5316\u3011pandas_datareader \u7ecf\u6d4e\u548c\u91d1\u878d\u6570\u636e\u8bfb\u53d6API\u4ecb\u7ecd - \u6765\u81ea\u77e5\u4e4e\u4e13\u680f\u300cPython\u4e0e\u91cf\u5316\u91d1\u878d\u79d1\u6280\u300d\uff0c\u4f5c\u8005: \u738b\u51e0\u884cxing https://zhuanlan.zhihu.com/p/341254102",
+      "date": "2021/1/1 20:20:34",
+      "language": "zh-CN",
+      "url": "https://zhuanlan.zhihu.com/p/341254102",
+      "accessDate": "2022-09-29T16:00:39Z",
+      "extra": "\u8d5e\u6570:17;",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u738b\u51e0\u884cxing",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u91cf\u5316\u4ea4\u6613",
+          "type": 1
+        },
+        {
+          "tag": "Python",
+          "type": 1
+        },
+        {
+          "tag": "\u6570\u636e\u5206\u6790",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-29T16:00:39Z",
+      "dateModified": "2022-09-29T16:00:39Z",
+      "uri": "http://zotero.org/users/8201183/items/KXECEM7B",
+      "itemID": 659,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-29T16:00:58Z",
+          "dateModified": "2022-09-29T16:00:58Z",
+          "uri": "http://zotero.org/users/8201183/items/BVAHCVBL",
+          "path": "E:\\Zotero\\storage\\BVAHCVBL\\341254102.html",
+          "select": "zotero://select/library/items/BVAHCVBL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wangjixingxingPythonGaoLiangHuaPandasDatareader2021",
+      "itemKey": "KXECEM7B",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KXECEM7B",
+      "publicationTitle": "Python\u4e0e\u91cf\u5316\u91d1\u878d\u79d1\u6280",
+      "type": "\u77e5\u4e4e\u4e13\u680f\u6587\u7ae0"
+    },
+    {
+      "key": "IFKSNUMN",
+      "version": 724,
+      "itemType": "patent",
+      "title": "\u5e26\u5185\u90e8\u632f\u5b50\u7684\u6ce2\u6d6a\u53d1\u7535\u88c5\u7f6e",
+      "abstractNote": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u5e26\u5185\u90e8\u632f\u5b50\u7684\u6ce2\u6d6a\u53d1\u7535\u88c5\u7f6e,\u5176\u5305\u62ec\uff1a\u58f3\u4f53\u3001\u53ef\u8c03\u8282\u5f39\u7c27\u3001\u632f\u5b50\u548c\u53d1\u7535\u88c5\u7f6e\uff1b\u6240\u8ff0\u53ef\u8c03\u8282\u5f39\u7c27\u3001\u632f\u5b50\u548c\u53d1\u7535\u88c5\u7f6e\u5747\u8bbe\u7f6e\u5728\u5bc6\u5c01\u7684\u58f3\u4f53\u5185\uff1b\u6240\u8ff0\u632f\u5b50\u4e0e\u6240\u8ff0\u53ef\u8c03\u8282\u5f39\u7c27\u8fde\u63a5\uff1b\u6240\u8ff0\u53d1\u7535\u88c5\u7f6e\u4e0e\u632f\u5b50\u8fde\u63a5,\u53d1\u7535\u88c5\u7f6e\u7531\u632f\u5b50\u9a71\u52a8\u8fd0\u884c\u3002\u672c\u5b9e\u7528\u65b0\u578b\u53d1\u7535\u88c5\u7f6e\u53d1\u7535\u8fd0\u884c\u65f6,\u901a\u8fc7\u53ef\u8c03\u8282\u5f39\u7c27\u7684\u8c03\u8282,\u4f7f\u88c5\u7f6e\u5185\u90e8\u632f\u5b50\u7684\u81ea\u632f\u5468\u671f\u63a5\u8fd1\u6ce2\u6d6a\u632f\u52a8\u5468\u671f,\u52a0\u5927\u88c5\u7f6e\u6ce2\u6d6a\u80fd\u8f6c\u6362\u80fd\u529b\u3002\u9047\u5230\u7834\u574f\u6027\u5927\u6d6a\u65f6,\u901a\u8fc7\u53ef\u8c03\u8282\u5f39\u7c27\u7684\u8c03\u8282,\u4f7f\u88c5\u7f6e\u5185\u90e8\u632f\u5b50\u7684\u81ea\u632f\u5468\u671f\u8fdc\u79bb\u6ce2\u6d6a\u632f\u52a8\u5468\u671f,\u51cf\u5c11\u6ce2\u6d6a\u5bf9\u88c5\u7f6e\u7684\u7834\u574f\u5f71\u54cd\u3002\u53d1\u7535\u88c5\u7f6e\u53ca\u5176\u914d\u5957\u8bbe\u5907\u5168\u90e8\u8bbe\u7f6e\u5728\u5c01\u95ed\u7684\u58f3\u4f53\u5185\u90e8,\u4f7f\u88c5\u7f6e\u53ef\u4ee5\u66f4\u597d\u62b5\u6297\u76d0\u96fe\u8150\u8680\u7b49\u6076\u52a3\u73af\u5883,\u53d1\u7535\u88c5\u7f6e\u7684\u4f7f\u7528\u5bff\u547d\u66f4\u957f\u3002",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2018&filename=CN206874429U&v=",
+      "accessDate": "2022-09-16T14:54:19Z",
+      "applicationNumber": "\u5b9e\u7528\u65b0\u578b",
+      "creators": [
+        {
+          "name": "\u738b\u5229",
+          "creatorType": "inventor"
+        },
+        {
+          "name": "\u674e\u6653\u91d1",
+          "creatorType": "inventor"
+        },
+        {
+          "name": "\u66f9\u8c26",
+          "creatorType": "inventor"
+        },
+        {
+          "name": "\u5317\u4eac\u56fd\u7535\u9f99\u6e90\u73af\u4fdd\u5de5\u7a0b\u6709\u9650\u516c\u53f8",
+          "creatorType": "inventor"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-16T14:54:19Z",
+      "dateModified": "2022-09-16T14:54:52Z",
+      "uri": "http://zotero.org/users/8201183/items/IFKSNUMN",
+      "itemID": 198,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wangliDaiNeiBuZhenZiDeBoLangFaDianZhuangZhi2018",
+      "itemKey": "IFKSNUMN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IFKSNUMN",
+      "date": "2018-01-12"
+    },
+    {
+      "key": "MAX93SIZ",
+      "version": 772,
+      "itemType": "webpage",
+      "title": "\u7f51\u7edc\u722c\u866b\u4e4brequests\u6a21\u5757\u7684\u4f7f\u7528+Github\u81ea\u52a8\u767b\u5165\u8ba4\u8bc1",
+      "url": "http://www.wjhsh.net/pyspark-p-8195884.html",
+      "accessDate": "2022-09-25T09:00:28Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T09:00:28Z",
+      "dateModified": "2022-09-25T09:00:28Z",
+      "uri": "http://zotero.org/users/8201183/items/MAX93SIZ",
+      "itemID": 166,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u7f51\u7edc\u722c\u866b\u4e4brequests\u6a21\u5757\u7684\u4f7f\u7528+Github\u81ea\u52a8\u767b\u5165\u8ba4\u8bc1",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-25T09:00:35Z",
+          "dateModified": "2022-09-25T09:00:35Z",
+          "uri": "http://zotero.org/users/8201183/items/HZ78ERU9",
+          "path": "E:\\Zotero\\storage\\HZ78ERU9\\pyspark-p-8195884.html",
+          "select": "zotero://select/library/items/HZ78ERU9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "WangLuoPaChongZhirequestsMoKuaiDeShiYongGithubZiDongDengRuRenZheng",
+      "itemKey": "MAX93SIZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MAX93SIZ"
+    },
+    {
+      "key": "JSXEXTCH",
+      "version": 1197,
+      "itemType": "newspaperArticle",
+      "title": "\u7a33\u5730\u4ea7\u518d\u51fa\u624b \u2014\u2014\u5b9e\u4f53\u7ecf\u6d4e\u653f\u7b56\u56fe\u8c312022\u5e74\u7b2c39\u671f",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-13T14:30:11Z",
+      "dateModified": "2022-10-13T14:31:22Z",
+      "uri": "http://zotero.org/users/8201183/items/JSXEXTCH",
+      "itemID": 793,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u7a33\u5730\u4ea7\u518d\u51fa\u624b \u2014\u2014\u5b9e\u4f53\u7ecf\u6d4e\u653f\u7b56\u56fe\u8c312022\u5e74\u7b2c39\u671f.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u7a33\u5730\u4ea7\u518d\u51fa\u624b \u2014\u2014\u5b9e\u4f53\u7ecf\u6d4e\u653f\u7b56\u56fe\u8c312022\u5e74\u7b2c39\u671f.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:25Z",
+          "dateModified": "2022-12-03T17:13:16Z",
+          "uri": "http://zotero.org/users/8201183/items/9LYCE7NX",
+          "select": "zotero://select/library/items/9LYCE7NX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wendichanzaichushou",
+      "itemKey": "JSXEXTCH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JSXEXTCH"
+    },
+    {
+      "key": "RIMEJR7R",
+      "version": 771,
+      "itemType": "journalArticle",
+      "title": "\u8bba\u6c64\u663e\u7956\u300a\u7261\u4e39\u4ead\u300b\u5531\u8bcd\u4e2d\u201c\u7ea2\u201d\u7684\u82f1\u8bd1",
+      "date": "2017-01",
+      "volume": "20",
+      "pages": "120-126",
+      "publicationTitle": "\u96c6\u7f8e\u5927\u5b66\u5b66\u62a5\uff08\u54f2\u5b66\u793e\u4f1a\u79d1\u5b66\u7248\uff09",
+      "issue": "1",
+      "creators": [
+        {
+          "name": "\u5434\u5251",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-25T17:34:44Z",
+      "dateModified": "2022-09-25T17:34:44Z",
+      "uri": "http://zotero.org/users/8201183/items/RIMEJR7R",
+      "itemID": 163,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wujianLunTangXianZuMuDanTingChangCiZhong2017",
+      "itemKey": "RIMEJR7R",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RIMEJR7R"
+    },
+    {
+      "key": "3MYSDZLZ",
+      "version": 0,
+      "itemType": "book",
+      "title": "\u8bc1\u5238\u6295\u8d44\u5b66",
+      "edition": "\u7b2c\u4e94\u7248",
+      "creators": [
+        {
+          "name": "\u5434\u6653\u6c42",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-11-13T10:18:29Z",
+      "dateModified": "2022-11-13T10:21:26Z",
+      "uri": "http://zotero.org/users/8201183/items/3MYSDZLZ",
+      "itemID": 890,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "wuxiaoqiuZhengQuanTouZiXue",
+      "itemKey": "3MYSDZLZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3MYSDZLZ"
+    },
+    {
+      "key": "PR5EQ6EJ",
+      "version": 892,
+      "itemType": "webpage",
+      "title": "\u884c\u4e1a\u914d\u7f6e\u6708\u5ea6\u62a5\u544a(2022/10).pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202210011578838406_1.pdf?1665061565000.pdf",
+      "accessDate": "2022-10-06T11:23:47Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:03Z",
+      "dateModified": "2022-10-06T12:48:03Z",
+      "uri": "http://zotero.org/users/8201183/items/PR5EQ6EJ",
+      "itemID": 729,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u884c\u4e1a\u914d\u7f6e\u6708\u5ea6\u62a5\u544a(2022-10).pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u884c\u4e1a\u914d\u7f6e\u6708\u5ea6\u62a5\u544a(2022-10).pdf",
+          "tags": [
+            {
+              "tag": "\u91d1\u878d"
+            }
+          ],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:50Z",
+          "dateModified": "2022-12-03T17:13:21Z",
+          "uri": "http://zotero.org/users/8201183/items/SURW2SAQ",
+          "select": "zotero://select/library/items/SURW2SAQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "xingyepeizhiyuedubaogao",
+      "itemKey": "PR5EQ6EJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PR5EQ6EJ"
+    },
+    {
+      "key": "UACS5UZ3",
+      "version": 893,
+      "itemType": "webpage",
+      "title": "\u884c\u4e1a\u4fe1\u606f\u8ddf\u8e2a\uff082022.09.19-2022.09.25\uff09.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209281578729604_1.pdf?1664364752000.pdf",
+      "accessDate": "2022-10-06T11:26:43Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:04Z",
+      "dateModified": "2022-10-06T12:48:04Z",
+      "uri": "http://zotero.org/users/8201183/items/UACS5UZ3",
+      "itemID": 730,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u884c\u4e1a\u4fe1\u606f\u8ddf\u8e2a\uff082022.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u884c\u4e1a\u4fe1\u606f\u8ddf\u8e2a\uff082022.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:47Z",
+          "dateModified": "2022-12-03T17:13:21Z",
+          "uri": "http://zotero.org/users/8201183/items/NYVZMENE",
+          "select": "zotero://select/library/items/NYVZMENE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "xingyexinxigenzong",
+      "itemKey": "UACS5UZ3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UACS5UZ3"
+    },
+    {
+      "key": "SA38M5Z7",
+      "version": 1247,
+      "itemType": "document",
+      "title": "\u65b0\u95fb\u4e8b\u4ef6\u9a71\u52a8\u7684\u6d77\u9f9f\u4ea4\u6613\u7b56\u7565\u4f18\u5316\u7814\u7a76\uff1a\u6587\u672c\u60c5\u7eea\u65b9\u6cd5_\u9ec4\u4eae\u70b9.pdf",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:35:57Z",
+      "dateModified": "2022-10-14T16:38:39Z",
+      "uri": "http://zotero.org/users/8201183/items/SA38M5Z7",
+      "itemID": 850,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u65b0\u95fb\u4e8b\u4ef6\u9a71\u52a8\u7684\u6d77\u9f9f\u4ea4\u6613\u7b56\u7565\u4f18\u5316\u7814\u7a76\uff1a\u6587\u672c\u60c5\u7eea\u65b9\u6cd5_\u9ec4\u4eae\u70b9.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u65b0\u95fb\u4e8b\u4ef6\u9a71\u52a8\u7684\u6d77\u9f9f\u4ea4\u6613\u7b56\u7565\u4f18\u5316\u7814\u7a76\uff1a\u6587\u672c\u60c5\u7eea\u65b9\u6cd5_\u9ec4\u4eae\u70b9.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:13:02Z",
+          "dateModified": "2022-12-03T17:13:02Z",
+          "uri": "http://zotero.org/users/8201183/items/BE4IEB4Z",
+          "select": "zotero://select/library/items/BE4IEB4Z"
+        }
+      ],
+      "notes": [],
+      "citationKey": "XinWenShiJianQuDongDeHaiGuiJiaoYiCeLueYouHuaYanJiuWenBenQingXuFangFaHuangLiangDian",
+      "itemKey": "SA38M5Z7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SA38M5Z7"
+    },
+    {
+      "key": "U74RZLT2",
+      "version": 724,
+      "itemType": "journalArticle",
+      "title": "\u5706\u9525\u7c7b\u521a\u4f53\u5bf9\u4efb\u610f\u8f74\u7684\u8f6c\u52a8\u60ef\u91cf\u8ba1\u7b97\u516c\u5f0f",
+      "abstractNote": "<\u6b63> \u8f6c\u52a8\u60ef\u91cf\u5e73\u884c\u8f74\u5b9a\u7406\u8bf4\u660e\u4e86\u5e73\u884c\u79fb\u52a8\u8f6c\u8f74\u4f4d\u7f6e\u65f6\u521a\u4f53\u8f6c\u52a8\u60ef\u91cf\u7684\u53d8\u5316\u3002\u5173\u4e8e\u8f6c\u52a8\u60ef\u91cf\u968f\u8f6c\u8f74\u65b9\u5411\u7684\u6539\u53d8,[1]\u4e2d\u7ed9\u51fa\u4e86\u4e24\u4e2a\u5b9a\u7406\u4f5c\u4e86\u6982\u62ec\u6027\u7684\u63cf\u8ff0,\u6587[2]\u63ed\u793a\u4e86\u6700\u5e38\u89c1\u7684\u5747\u8d28\u5706\u67f1\u7c7b\u521a\u4f53\u7684\u8f6c\u52a8\u60ef\u91cf\u4f9d\u8d56\u8f6c\u8f74\u65b9\u5411\u53d8\u5316\u7684\u89c4\u5f8b,\u5177\u4f53\u7ed9\u51fa\u4e86\u8fd9\u7c7b\u521a\u4f53\u5bf9\u7a7a\u95f4\u4efb\u610f\u8f74\u7684\u8f6c\u52a8\u60ef\u91cf\u8ba1\u7b97\u516c\u5f0f\u3002\u672c\u6587\u8bd5\u7528\u5728\u65cb\u8f6c\u5750\u6807\u7cfb\u4e2d\u6c42\u79ef\u5206\u7684\u65b9\u6cd5\u8fdb\u4e00\u6b65\u7ed9\u51fa\u5706\u9525\u7c7b\u521a\u4f53(\u5305\u62ec\u5706\u53f0\u3001\u5706\u9525\u3001\u5706\u67f1)\u5bf9\u7a7a\u95f4\u4efb\u610f\u8f74\u7684\u8f6c\u52a8\u60ef\u91cf\u3002",
+      "date": "1988",
+      "language": "\u4e2d\u6587;",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFD8589&filename=LDSZ198804006&v=",
+      "extra": "7 citations(CNKI)[2022-9-18]",
+      "pages": "29-32",
+      "publicationTitle": "\u5a04\u5e95\u5e08\u4e13\u5b66\u62a5",
+      "issue": "4",
+      "ISSN": "1008-1666",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u6768\u514b\u660c",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "\u5e73\u884c\u8f74\u5b9a\u7406",
+          "type": 1
+        },
+        {
+          "tag": "\u4e2d\u5fc3\u8f74",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-09-18T03:00:23Z",
+      "dateModified": "2022-09-18T03:00:24Z",
+      "uri": "http://zotero.org/users/8201183/items/U74RZLT2",
+      "itemID": 187,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u6768\u514b\u660c_1988_\u5706\u9525\u7c7b\u521a\u4f53\u5bf9\u4efb\u610f\u8f74\u7684\u8f6c\u52a8\u60ef\u91cf\u8ba1\u7b97\u516c\u5f0f.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u6768\u514b\u660c_1988_\u5706\u9525\u7c7b\u521a\u4f53\u5bf9\u4efb\u610f\u8f74\u7684\u8f6c\u52a8\u60ef\u91cf\u8ba1\u7b97\u516c\u5f0f.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:33:07Z",
+          "dateModified": "2022-12-03T17:13:27Z",
+          "uri": "http://zotero.org/users/8201183/items/8MIUVAUM",
+          "select": "zotero://select/library/items/8MIUVAUM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "yangkechang1988yuanzhuileigangtiduirenyizhoudezhuandongguanliangjisuangongshi",
+      "itemKey": "U74RZLT2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/U74RZLT2"
+    },
+    {
+      "key": "NAVXIH8R",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u7ecf\u6d4e\u653f\u7b56\u4e0d\u786e\u5b9a\u6027\u4e0e\u623f\u5730\u4ea7\u4f01\u4e1a\u8d44\u672c\u7ed3\u6784\u52a8\u6001\u8c03\u6574\u2014\u2014\u57fa\u4e8e\u6211\u56fd\u4e0a\u5e02\u516c\u53f8\u7684\u5b9e\u8bc1\u5206\u6790",
+      "date": "2022-01",
+      "pages": "64-72",
+      "publicationTitle": "\u6c5f\u6dee\u8bba\u575b",
+      "issue": "1",
+      "creators": [
+        {
+          "name": "\u53f6\u8302\u7136",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u9648\u826f\u534e",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T13:33:43Z",
+      "dateModified": "2022-10-30T13:33:43Z",
+      "uri": "http://zotero.org/users/8201183/items/NAVXIH8R",
+      "itemID": 869,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u53f6\u8302\u7136_\u9648\u826f\u534e_2022_\u7ecf\u6d4e\u653f\u7b56\u4e0d\u786e\u5b9a\u6027\u4e0e\u623f\u5730\u4ea7\u4f01\u4e1a\u8d44\u672c\u7ed3\u6784\u52a8\u6001\u8c03\u6574\u2014\u2014\u57fa\u4e8e\u6211\u56fd\u4e0a\u5e02\u516c\u53f8\u7684\u5b9e\u8bc1\u5206\u6790.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u53f6\u8302\u7136_\u9648\u826f\u534e_2022_\u7ecf\u6d4e\u653f\u7b56\u4e0d\u786e\u5b9a\u6027\u4e0e\u623f\u5730\u4ea7\u4f01\u4e1a\u8d44\u672c\u7ed3\u6784\u52a8\u6001\u8c03\u6574\u2014\u2014\u57fa\u4e8e\u6211\u56fd\u4e0a\u5e02\u516c\u53f8\u7684\u5b9e\u8bc1\u5206\u6790.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-30T14:02:29Z",
+          "dateModified": "2022-10-30T14:02:29Z",
+          "uri": "http://zotero.org/users/8201183/items/TDN2XB2F",
+          "select": "zotero://select/library/items/TDN2XB2F"
+        }
+      ],
+      "notes": [],
+      "citationKey": "yemaoranJingJiZhengCeBuQueDingXingYuFangDiChanQiYeZiBenJieGouDongTaiDiaoZhengJiYuWoGuoShangShiGongSiDeShiZhengFenXi2022",
+      "itemKey": "NAVXIH8R",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NAVXIH8R"
+    },
+    {
+      "key": "PKQTF749",
+      "version": 772,
+      "itemType": "webpage",
+      "title": "\u7528\u5747\u503c\u65b9\u5dee\u6cd5\u8ba1\u7b97\u8fb9\u9645VaR\u503c\u548c\u6210\u5206VaR\u503c\uff08Python\uff09-pudn.com",
+      "url": "https://www.pudn.com/news/6228d0739ddf223e1ad15c24.html",
+      "accessDate": "2022-09-26T04:44:00Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-26T04:44:00Z",
+      "dateModified": "2022-09-26T04:44:00Z",
+      "uri": "http://zotero.org/users/8201183/items/PKQTF749",
+      "itemID": 162,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u7528\u5747\u503c\u65b9\u5dee\u6cd5\u8ba1\u7b97\u8fb9\u9645VaR\u503c\u548c\u6210\u5206VaR\u503c\uff08Python\uff09-pudn.com",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-26T04:44:08Z",
+          "dateModified": "2022-09-26T04:44:08Z",
+          "uri": "http://zotero.org/users/8201183/items/S4UIQMZZ",
+          "path": "E:\\Zotero\\storage\\S4UIQMZZ\\6228d0739ddf223e1ad15c24.html",
+          "select": "zotero://select/library/items/S4UIQMZZ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "YongJunZhiFangChaiFaJiSuanBianJiVaRZhiHeChengFenVaRZhiPythonPudn",
+      "itemKey": "PKQTF749",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PKQTF749"
+    },
+    {
+      "key": "ASQ6BUZX",
+      "version": 788,
+      "itemType": "webpage",
+      "title": "\u6709\u54ea\u4e9b\u7761\u524d\u6545\u4e8b\u77ed\u4e00\u70b9\u7ed9\u5973\u670b\u53cb\u8bb2\u7684\uff1f - \u77e5\u4e4e",
+      "url": "https://www.zhihu.com/question/60134876/answer/1653309837",
+      "accessDate": "2022-10-01T18:32:21Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-01T18:32:21Z",
+      "dateModified": "2022-10-01T18:32:21Z",
+      "uri": "http://zotero.org/users/8201183/items/ASQ6BUZX",
+      "itemID": 667,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "YouNaXieShuiQianGuShiDuanYiDianGeiNuPengYouJiangDeZhiHu",
+      "itemKey": "ASQ6BUZX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ASQ6BUZX"
+    },
+    {
+      "key": "2SWHPMHN",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u623f\u5730\u4ea7\u5e02\u573a\u7406\u6027\u6ce1\u6cab\u5206\u6790",
+      "date": "2003-01",
+      "pages": "34-43",
+      "publicationTitle": "\u7ecf\u6d4e\u7814\u7a76",
+      "issue": "3",
+      "creators": [
+        {
+          "name": "\u8881\u5fd7\u521a",
+          "creatorType": "author"
+        },
+        {
+          "name": "\u6a0a\u6f47\u5f66",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:07Z",
+      "dateModified": "2022-10-30T15:04:07Z",
+      "uri": "http://zotero.org/users/8201183/items/2SWHPMHN",
+      "itemID": 880,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "yuanzhigangFangDiChanShiChangLiXingPaoMoFenXi2003",
+      "itemKey": "2SWHPMHN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2SWHPMHN"
+    },
+    {
+      "key": "UR72EJF6",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "\u4f4e\u78b3\u7ecf\u6d4e\u7406\u5ff5\u4fc3\u8fdb\u623f\u5730\u4ea7\u7ecf\u6d4e\u53d1\u5c55\u7684\u5bf9\u7b56",
+      "date": "2022-05",
+      "volume": "7",
+      "pages": "266-268",
+      "publicationTitle": "\u5de5\u7a0b\u6280\u672f\u7814\u7a76",
+      "issue": "10",
+      "creators": [
+        {
+          "name": "\u5f20\u53d1\u6c11",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-30T15:04:06Z",
+      "dateModified": "2022-10-30T15:04:06Z",
+      "uri": "http://zotero.org/users/8201183/items/UR72EJF6",
+      "itemID": 876,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "zhangfaminDiTanJingJiLiNianCuJinFangDiChanJingJiFaZhanDeDuiCe2022",
+      "itemKey": "UR72EJF6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UR72EJF6"
+    },
+    {
+      "key": "8SUQ8XFF",
+      "version": 771,
+      "itemType": "webpage",
+      "title": "\u8d75\u7d2b\u9633\u5728\u4e2d\u56fd\u5171\u4ea7\u515a\u7b2c\u5341\u4e09\u6b21\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u7684\u62a5\u544a",
+      "url": "http://www.gov.cn/test/2008-07/01/content_1032279.htm",
+      "accessDate": "2022-09-20T02:53:09Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-09-20T02:53:09Z",
+      "dateModified": "2022-09-20T02:53:09Z",
+      "uri": "http://zotero.org/users/8201183/items/8SUQ8XFF",
+      "itemID": 186,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u8d75\u7d2b\u9633\u5728\u4e2d\u56fd\u5171\u4ea7\u515a\u7b2c\u5341\u4e09\u6b21\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u7684\u62a5\u544a",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-09-20T02:53:14Z",
+          "dateModified": "2022-09-20T02:53:14Z",
+          "uri": "http://zotero.org/users/8201183/items/GESMLIA7",
+          "path": "E:\\Zotero\\storage\\GESMLIA7\\content_1032279.html",
+          "select": "zotero://select/library/items/GESMLIA7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ZhaoZiYangZaiZhongGuoGongChanDangDiShiSanCiQuanGuoDaiBiaoDaHuiShangDeBaoGao",
+      "itemKey": "8SUQ8XFF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8SUQ8XFF"
+    },
+    {
+      "key": "C8XVYHGR",
+      "version": 837,
+      "itemType": "webpage",
+      "title": "\u91cf\u5316\u6295\u8d44\u5206\u6790\u5de5\u5177quantstats\u4ecb\u7ecd\u53ca\u5176\u5728backtrader\u91cf\u5316\u6846\u67b6\u4e2d\u4f7f\u7528",
+      "abstractNote": "\u7b56\u7565\u7ee9\u6548\u8bc4\u4ef7\u662f\u91cf\u5316\u4ea4\u6613\u5f88\u91cd\u8981\u7684\u4e00\u73af\uff0cquantstats\u53ef\u4ee5\u8f93\u51fahtml\u62a5\u8868\uff0c\u5305\u62ec\u5404\u9879\u7ee9\u6548\u6307\u6807\u548c\u56fe\u8868\uff0c\u4e14\u53ef\u4ee5\u975e\u5e38\u65b9\u4fbf\u5730\u4e0ebacktrader\u96c6\u6210",
+      "url": "http://mp.weixin.qq.com/s?__biz=Mzg4NjAzOTQ5OQ==&mid=2247483770&idx=1&sn=af55fb9942d67bf90abc69c102113eef&chksm=cf9ef7def8e97ec81bc11eebaeb7d7b171d534015127c9e4d7ac8ca144eb5a9e4f860c8de546#rd",
+      "accessDate": "2022-10-05T07:23:26Z",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u8bf8\u845b\u8bf4talk",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-05T07:23:26Z",
+      "dateModified": "2022-10-05T07:23:26Z",
+      "uri": "http://zotero.org/users/8201183/items/C8XVYHGR",
+      "itemID": 697,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-05T07:23:29Z",
+          "dateModified": "2022-10-05T07:23:29Z",
+          "uri": "http://zotero.org/users/8201183/items/HTFACBYE",
+          "path": "E:\\Zotero\\storage\\HTFACBYE\\I9xOqmt0UiuZSN04oep2tg.html",
+          "select": "zotero://select/library/items/HTFACBYE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zhugeshuotalkLiangHuaTouZiFenXiGongJuquantstatsJieShaoJiQiZaibacktraderLiangHuaKuangJiaZhongShiYong",
+      "itemKey": "C8XVYHGR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/C8XVYHGR",
+      "publicationTitle": "\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0"
+    },
+    {
+      "key": "SWQ6GPQM",
+      "version": 892,
+      "itemType": "webpage",
+      "title": "\u8d44\u91d1\u6d41\u5411\u5206\u67909.30.pdf",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202209301578821081_1.pdf?1664575636000.pdf",
+      "accessDate": "2022-10-06T11:26:02Z",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-06T12:48:05Z",
+      "dateModified": "2022-10-06T12:48:05Z",
+      "uri": "http://zotero.org/users/8201183/items/SWQ6GPQM",
+      "itemID": 731,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u8d44\u91d1\u6d41\u5411\u5206\u67909.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u8d44\u91d1\u6d41\u5411\u5206\u67909.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:44Z",
+          "dateModified": "2022-12-03T17:13:20Z",
+          "uri": "http://zotero.org/users/8201183/items/Z3YUDYBL",
+          "select": "zotero://select/library/items/Z3YUDYBL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zijinliuxiangfenxi9",
+      "itemKey": "SWQ6GPQM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SWQ6GPQM"
+    },
+    {
+      "key": "YI9Z6S54",
+      "version": 1240,
+      "itemType": "journalArticle",
+      "title": "\u4ef7\u503c\u98ce\u683c\u7684\u53f3\u4fa7\u884c\u60c5\u2014\u2014\u98ce\u683c\u6d1e\u5bdf\u4e0e\u6027\u4ef7\u6bd4\u8ffd\u8e2a\u7cfb\u5217\uff08\u4e5d\uff09",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-13T14:24:28Z",
+      "dateModified": "2022-10-14T16:28:50Z",
+      "uri": "http://zotero.org/users/8201183/items/YI9Z6S54",
+      "itemID": 787,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u4ef7\u503c\u98ce\u683c\u7684\u53f3\u4fa7\u884c\u60c5\u2014\u2014\u98ce\u683c\u6d1e\u5bdf\u4e0e\u6027\u4ef7\u6bd4\u8ffd\u8e2a\u7cfb\u5217\uff08\u4e5d\uff09.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u4ef7\u503c\u98ce\u683c\u7684\u53f3\u4fa7\u884c\u60c5\u2014\u2014\u98ce\u683c\u6d1e\u5bdf\u4e0e\u6027\u4ef7\u6bd4\u8ffd\u8e2a\u7cfb\u5217\uff08\u4e5d\uff09.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:31Z",
+          "dateModified": "2022-12-03T17:13:17Z",
+          "uri": "http://zotero.org/users/8201183/items/Q643FNXY",
+          "select": "zotero://select/library/items/Q643FNXY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-787",
+      "itemKey": "YI9Z6S54",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YI9Z6S54"
+    },
+    {
+      "key": "S2KXTV95",
+      "version": 1216,
+      "itemType": "book",
+      "title": "\u65e0\u5668\u68b0\u5065\u8eab\u7528\u81ea\u8eab\u4f53\u91cd\u953b\u70bc\u9ad8\u6e05",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-10-13T14:28:45Z",
+      "dateModified": "2022-10-14T14:30:41Z",
+      "uri": "http://zotero.org/users/8201183/items/S2KXTV95",
+      "itemID": 792,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u65e0\u5668\u68b0\u5065\u8eab\u7528\u81ea\u8eab\u4f53\u91cd\u953b\u70bc\u9ad8\u6e05.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u65e0\u5668\u68b0\u5065\u8eab\u7528\u81ea\u8eab\u4f53\u91cd\u953b\u70bc\u9ad8\u6e05.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T14:32:23Z",
+          "dateModified": "2022-12-03T17:13:17Z",
+          "uri": "http://zotero.org/users/8201183/items/8QGX5ANW",
+          "select": "zotero://select/library/items/8QGX5ANW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-792",
+      "itemKey": "S2KXTV95",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/S2KXTV95"
+    },
+    {
+      "key": "4S6XEX2X",
+      "version": 1206,
+      "itemType": "webpage",
+      "title": "\u4f7f\u7528Markdown\u642d\u914dPandoc\u64b0\u5199\u5b66\u672f\u8bba\u6587\u7684\u8be6\u7ec6\u6307\u5357",
+      "abstractNote": "\u6587\u7ae0\u504f\u957f\uff0c\u4ecb\u610f\u6ca1\u6709\u76ee\u5f55\u7684\u5c0f\u4f19\u4f34\u53ef\u4ee5\u6765\u6211\u7684\u535a\u5ba2\u770b\u3002 \u4f7f\u7528Markdown\u642d\u914dPandoc\u64b0\u5199\u5b66\u672f\u8bba\u6587\u7684\u6559\u7a0b - Colordi&#39;s blog\u524d\u8a00\u76f8\u4fe1\u5927\u5bb6\u770b\u5230\u8fd9\u7bc7\u9898\u76ee\u5fc3\u91cc\u90fd\u4f1a\u4ea7\u751f\u4e00\u4e2a\u7591\u95ee\uff0c\u4e3a\u4ec0\u4e48\u4e0d\u4f7f\u7528Microsoft Word\uff1f\u6bd5\u7adf\u5728\u5b66\u672f\u5708\u5b50\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/395193554",
+      "accessDate": "2022-10-13T15:11:42Z",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-13T15:11:42Z",
+      "dateModified": "2022-10-13T15:11:45Z",
+      "uri": "http://zotero.org/users/8201183/items/4S6XEX2X",
+      "itemID": 812,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-13T15:11:52Z",
+          "dateModified": "2022-10-13T15:11:52Z",
+          "uri": "http://zotero.org/users/8201183/items/HUIEW66Y",
+          "path": "E:\\Zotero\\storage\\HUIEW66Y\\395193554.html",
+          "select": "zotero://select/library/items/HUIEW66Y"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-812",
+      "itemKey": "4S6XEX2X",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4S6XEX2X",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "8TQ2IEB7",
+      "version": 1251,
+      "itemType": "webpage",
+      "title": "python\u722c\u53d6\u6559\u52a1\u7ba1\u7406\u7cfb\u7edf - \u6e34\u671b\u6210\u4e3a\u5927\u4f6c\u7684\u83dc\u9e21 - \u535a\u5ba2\u56ed",
+      "abstractNote": "\u6628\u5929\u5b66\u4e60\u4e86\u7b80\u5355\u7684\u722c\u866b\u5165\u95e8\uff0c\u6240\u4ee5\u4e34\u65f6\u8d77\u610f\u5199\u4e86\u4e00\u4e2a\u722c\u53d6\u6210\u7ee9\u7684\u722c\u866b\uff0c\u4e0b\u9762\u8bb2\u8ff0\u5199\u722c\u866b\u5168\u8fc7\u7a0b\uff0c\u56e0\u4e3a\u521a\u5b66\u722c\u866b\uff0c\u6240\u4ee5\u627e\u5230\u4e86\u4e00\u4e2a\u8001\u7684\u767b\u5f55\u9875\u9762\uff0c\u4e0d\u9700\u8981\u8f93\u5165\u9a8c\u8bc1\u7801 \u6b64\u5904\u9690\u53bb\u5b66\u6821\u4fe1\u606f\uff1ahttp://xxxjwc.its.x",
+      "language": "zh-cn",
+      "url": "https://www.cnblogs.com/caijiyang/p/12551043.html",
+      "accessDate": "2022-10-16T17:24:27Z",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-16T17:24:27Z",
+      "dateModified": "2022-10-16T17:24:29Z",
+      "uri": "http://zotero.org/users/8201183/items/8TQ2IEB7",
+      "itemID": 854,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-16T17:24:33Z",
+          "dateModified": "2022-10-16T17:24:33Z",
+          "uri": "http://zotero.org/users/8201183/items/ELQGF9F3",
+          "path": "E:\\Zotero\\storage\\ELQGF9F3\\12551043.html",
+          "select": "zotero://select/library/items/ELQGF9F3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-854",
+      "itemKey": "8TQ2IEB7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8TQ2IEB7"
+    },
+    {
+      "key": "C5DP8PEC",
+      "version": 1253,
+      "itemType": "webpage",
+      "title": "(11\u6761\u6d88\u606f) Python\u5b66\u4e60\u8bb0\u5f557\u2014\u2014\u722c\u866b\u2014\u2014\u591a\u91cd\u8df3\u8f6c\u9875\u9762\u7684\u767b\u5f55(\u67d0\u53cc\u6d41\u4e00\u5b66\u6821\u767b\u5f55)\u2014\u2014\u4fdd\u59c6\u7ea7\u7684\u6559\u5b66_\u5eb7\u5a1c\u55b5\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+      "url": "https://blog.csdn.net/u011017694/article/details/104591798",
+      "accessDate": "2022-10-16T18:09:16Z",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-16T18:09:16Z",
+      "dateModified": "2022-10-16T18:09:18Z",
+      "uri": "http://zotero.org/users/8201183/items/C5DP8PEC",
+      "itemID": 856,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "(11\u6761\u6d88\u606f) Python\u5b66\u4e60\u8bb0\u5f557\u2014\u2014\u722c\u866b\u2014\u2014\u591a\u91cd\u8df3\u8f6c\u9875\u9762\u7684\u767b\u5f55(\u67d0\u53cc\u6d41\u4e00\u5b66\u6821\u767b\u5f55)\u2014\u2014\u4fdd\u59c6\u7ea7\u7684\u6559\u5b66_\u5eb7\u5a1c\u55b5\u7684\u535a\u5ba2-CSDN\u535a\u5ba2",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-10-16T18:09:29Z",
+          "dateModified": "2022-10-16T18:09:29Z",
+          "uri": "http://zotero.org/users/8201183/items/997D6KQF",
+          "path": "E:\\Zotero\\storage\\997D6KQF\\104591798.html",
+          "select": "zotero://select/library/items/997D6KQF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-856",
+      "itemKey": "C5DP8PEC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/C5DP8PEC"
+    },
+    {
+      "key": "2X7C6BKG",
+      "version": 1256,
+      "itemType": "webpage",
+      "title": "KOPIA \u5f00\u542f\u5f71\u5b50\u5907\u4efd\u4ee5\u53ca SUPERMEMO 18 \u7684\u6570\u636e\u4fee\u62a4\u65b9\u6cd5",
+      "abstractNote": "\u4e00\u3001Supermemo \u7684\u5f71\u5b50\u5907\u4efdIssues implementing documented VSS snapshots with actions \u00b7 Issue #1456 \u00b7 kopia/kopia\u4e00\u3001Supermemo \u7684\u5f71\u5b50\u5907\u4efd \u53f6\u5cfb\u5ce3\uff1aSuperMemo \u81ea\u52a8\u5907\u4efd\u4f60\u4eec\u7684\u53f6\u54e5\u54e5\u4e4b\u524d\u6709\u4e00\u7bc7\u8be6\u5c3d\u7684\u6587\u7ae0\u662f\u8bb2\u2026",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/524574542",
+      "accessDate": "2022-10-19T09:39:50Z",
+      "creators": [],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-19T09:39:50Z",
+      "dateModified": "2022-10-19T09:39:52Z",
+      "uri": "http://zotero.org/users/8201183/items/2X7C6BKG",
+      "itemID": 858,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "zotero-858",
+      "itemKey": "2X7C6BKG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2X7C6BKG",
+      "publicationTitle": "\u77e5\u4e4e\u4e13\u680f"
+    },
+    {
+      "key": "W97559TP",
+      "version": 1237,
+      "itemType": "journalArticle",
+      "title": "\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u3001\u6c47\u7387\u6ce2\u52a8\u4e0e\u8d27\u5e01\u653f\u7b56\u6709\u6548\u6027",
+      "abstractNote": "\u63a8\u52a8\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u662f\u4eba\u6c11\u5e01\u56fd\u9645\u5316\u7684\u4e00\u4e2a\u91cd\u8981\u5185\u5bb9\u3002\u6587\u7ae0\u5c06\u8d27\u5e01\u653f\u7b56\u53d8\u91cf\u5bf9\u7ecf\u6d4e\u589e\u957f\u548c\u7269\u4ef7\u7684\u5f71\u54cd\u7684\u5185\u751f\u90e8\u5206\u5254\u9664\uff0c\u8fd0\u7528\u8d27\u5e01\u653f\u7b56\u5916\u751f\u53d8\u91cf\u6784\u5efa\u81ea\u56de\u5f52\u5206\u5e03\u6ede\u540e\u6a21\u578b\uff0c\u5b9e\u8bc1\u68c0\u9a8c\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u3001\u8d27\u5e01\u653f\u7b56\u5bf9\u6c47\u7387\u6ce2\u52a8\u7684\u5f71\u54cd\u3002\u7814\u7a76\u53d1\u73b0\uff1a\u6269\u5927\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u89c4\u6a21\u80fd\u663e\u8457\u6291\u5236\u4eba\u6c11\u5e01\u6c47\u7387\u6ce2\u52a8\uff0c\u5176\u6291\u5236\u6548\u5e94\u67092\u671f\u6ede\u540e\uff1b\u5355\u72ec\u4f7f\u7528\u5bbd\u677e\u7684\u8d27\u5e01\u653f\u7b56\u5373\u6269\u5927\u8d27\u5e01\u4f9b\u7ed9\u91cf\u65e0\u6cd5\u5b9e\u73b0\u7a33\u5b9a\u4eba\u6c11\u5e01\u6c47\u7387\u7684\u76ee\u6807\uff0c\u4f46\u662f\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u89c4\u6a21\u6269\u5927\u548c\u5b9e\u65bd\u5bbd\u677e\u8d27\u5e01\u653f\u7b56\u5171\u540c\u4f5c\u7528\u5219\u53ef\u4ee5\u6709\u6548\u964d\u4f4e\u4eba\u6c11\u5e01\u6c47\u7387\u6ce2\u52a8\u3002",
+      "date": "2022",
+      "language": "\u4e2d\u6587",
+      "libraryCatalog": "CNKI",
+      "url": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=TJJC2022092700S&v=",
+      "accessDate": "2022-10-14T16:27:01Z",
+      "pages": "145-149",
+      "publicationTitle": "\u7edf\u8ba1\u4e0e\u51b3\u7b56",
+      "DOI": "10/gq2qfh",
+      "issue": "19",
+      "ISSN": "1002-6487",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "\u5de6\u559c\u6885",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "\u8d27\u5e01\u653f\u7b56",
+          "type": 1
+        },
+        {
+          "tag": "\u4eba\u6c11\u5e01\u6c47\u7387",
+          "type": 1
+        },
+        {
+          "tag": "\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97",
+          "type": 1
+        },
+        {
+          "tag": "\u81ea\u56de\u5f52\u5206\u5e03\u6ede\u540e\u6a21\u578b",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-10-14T16:27:01Z",
+      "dateModified": "2022-10-14T16:27:34Z",
+      "uri": "http://zotero.org/users/8201183/items/W97559TP",
+      "itemID": 844,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "\u5de6\u559c\u6885_2022_\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u3001\u6c47\u7387\u6ce2\u52a8\u4e0e\u8d27\u5e01\u653f\u7b56\u6709\u6548\u6027.pdf",
+          "path": "E:\\Zotero\\storage\\Zotfile\\\u5de6\u559c\u6885_2022_\u4eba\u6c11\u5e01\u8de8\u5883\u7ed3\u7b97\u3001\u6c47\u7387\u6ce2\u52a8\u4e0e\u8d27\u5e01\u653f\u7b56\u6709\u6548\u6027.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-03T17:13:06Z",
+          "dateModified": "2022-12-03T17:13:06Z",
+          "uri": "http://zotero.org/users/8201183/items/CCPMLQFJ",
+          "select": "zotero://select/library/items/CCPMLQFJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zuoximeiRenMinBiKuaJingJieSuanHuiLuBoDongYuHuoBiZhengCeYouXiaoXing2022",
+      "itemKey": "W97559TP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/W97559TP"
+    }
+  ]
+}

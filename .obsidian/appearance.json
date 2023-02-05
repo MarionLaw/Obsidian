@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 15,
+  "translucency": false,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "accentColor": "",
+  "nativeMenus": false
+}

@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": "D:\\Obsidian\\.pandoc\\BiLan.csl",
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "E:\\Pandoc\\pandoc.exe",
+  "pdflatex": "",
+  "outputFolder": null,
+  "extraArguments": "",
+  "exportFrom": "html"
+}

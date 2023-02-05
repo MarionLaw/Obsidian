@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"a3f515c65951e51a","x":-1100,"y":-400,"width":1130,"height":320,"type":"group","label":"职业规划"},
+		{"id":"a81ec83a45b14788","x":-518,"y":-363,"width":250,"height":60,"type":"text","text":"采购"},
+		{"id":"2f84de00a3afa75d","x":-518,"y":-260,"width":250,"height":60,"type":"text","text":"采购经理"},
+		{"id":"5c359c4c5fe817dc","x":-518,"y":-160,"width":250,"height":60,"type":"text","text":"采购总监"},
+		{"id":"a139fa557c0418f6","x":-240,"y":-363,"width":250,"height":60,"type":"text","text":"供应链管理"},
+		{"id":"4ad88d16fae00378","x":-800,"y":-363,"width":250,"height":60,"type":"text","text":"财务、税务"},
+		{"id":"5c34e3f022df2cd0","x":-1080,"y":-362,"width":250,"height":60,"type":"text","text":"金融"},
+		{"id":"d3e3906374519448","x":80,"y":-940,"width":640,"height":200,"type":"group","label":"计划时间表"},
+		{"id":"82103a1dbf05572a","x":100,"y":-920,"width":160,"height":158,"type":"text","text":"2023.2-2023.12\n准备考研"},
+		{"id":"269738f323c6ed1f","x":260,"y":-920,"width":134,"height":79,"type":"text","text":"2023.2-2023.6 \nCET6"},
+		{"id":"cb110c53d50f965c","x":260,"y":-820,"width":150,"height":58,"type":"text","text":"2023.9-2023.11\n到广州参加秋招"},
+		{"id":"51aadc0ea146c7aa","x":394,"y":-920,"width":164,"height":53,"type":"text","text":"2023.2-2023.5\n初会"},
+		{"id":"aea038fdd6eb642c","x":558,"y":-920,"width":140,"height":53,"type":"text","text":"2023.2-2023.5\n基从"},
+		{"id":"812a8a587a24c140","x":394,"y":-867,"width":164,"height":105,"type":"text","text":"2023.5-2023.11\n税务师"},
+		{"id":"d0194b53fb596ff5","x":558,"y":-867,"width":140,"height":67,"type":"text","text":"2023.5-2023.9\n计算机二级（广东）"},
+		{"id":"802b01d10e57e1eb","x":80,"y":-660,"width":600,"height":520,"type":"group","label":"学习时间规划"},
+		{"id":"f37d9eb882265d59","x":100,"y":-634,"width":458,"height":60,"type":"text","text":"2023.2-2023.5 初会(30%)、基从(30%)、CET6(20%)、考研(20%)"},
+		{"id":"090e6e78701fc24f","x":558,"y":-634,"width":102,"height":60,"type":"text","text":"8 h/d"},
+		{"id":"cd48ed028051087e","x":100,"y":-574,"width":458,"height":60,"type":"text","text":"2023.5-2023.6 CET6(40%)、计算机二级(5%)、税务师(10%)、考研(45%)"},
+		{"id":"707f656be97b0db5","x":100,"y":-514,"width":458,"height":60,"type":"text","text":"2023.6-2023.8月末 计算机二级(15%)、税务师(20%)、考研(65%)"},
+		{"id":"a9d5401c626bb74b","x":100,"y":-454,"width":458,"height":60,"type":"text","text":"2023.8月末-2023.9 计算机二级(10%)、税务师、考研 \n（location in 广州）"},
+		{"id":"452b8dca4f23c185","x":558,"y":-574,"width":102,"height":60,"type":"text","text":"9 h/d"},
+		{"id":"f5999e4755d941d1","x":558,"y":-514,"width":102,"height":60,"type":"text","text":"9 h/d"},
+		{"id":"734c8d263945a6c6","x":100,"y":-394,"width":458,"height":60,"type":"text","text":"2023.9-2023.11 秋招、税务师(20%)、考研(80%)"},
+		{"id":"08ab2fa89067839a","x":558,"y":-334,"width":102,"height":60,"type":"text","text":"9 h/d"},
+		{"id":"540f796cf205a99a","x":100,"y":-214,"width":260,"height":54,"type":"text","text":"2024.3-2024.5 春招"},
+		{"id":"7633109bbda72718","x":100,"y":-334,"width":458,"height":60,"type":"text","text":"2023.11-2023.12 考研"},
+		{"id":"1525e353254070f9","x":100,"y":-274,"width":260,"height":60,"type":"text","text":"2024.1-2024.3 实习"},
+		{"id":"eb01dbdb801c91c9","x":558,"y":-454,"width":102,"height":60,"type":"text","text":"10 h/d"},
+		{"id":"62776cd0e479e0ff","x":558,"y":-394,"width":102,"height":60,"type":"text","text":"5h/d"},
+		{"id":"2c0c753e37301183","x":698,"y":-660,"width":400,"height":520,"type":"file","file":"0-Attachment/Drawing 2023-02-02 21.19.29.excalidraw.md"}
+	],
+	"edges":[
+		{"id":"0e4e7e08fd1c8a78","fromNode":"a81ec83a45b14788","fromSide":"bottom","toNode":"2f84de00a3afa75d","toSide":"top"},
+		{"id":"ba179993eb1f3598","fromNode":"2f84de00a3afa75d","fromSide":"bottom","toNode":"5c359c4c5fe817dc","toSide":"top"}
+	]
+}
